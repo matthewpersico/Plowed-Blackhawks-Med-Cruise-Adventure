@@ -16,7 +16,7 @@
 
 |Who|Where|Time|
 |-|-|-|
-|Diana and Matt|Cagney's Steakhouse|6:45|
+|Diana and Matt|Cagney's Steakhouse|18:45|
 |Helene and Frank|||
 |Alex and Michelle|||
 |Philomena|||
@@ -38,7 +38,7 @@
 
 |Who|Where|Time|
 |-|-|-|
-|Diana and Matt|Shanghai's Restaurant|07:30|
+|Diana and Matt|Shanghai's Restaurant|19:30|
 |Helene and Frank|||
 |Alex and Michelle|||
 |Philomena|||
@@ -49,12 +49,7 @@
 
 |Who|Where|Time|
 |-|-|-|
-|Diana and Matt|||
-|Helene and Frank|||
-|Alex and Michelle|||
-|Philomena|||
-|Anne|||
-|Marge|||
+|Everyone|Le Bistro, for Phil's Birthday|18:00|
 
 ## Saturday, August 15
 
