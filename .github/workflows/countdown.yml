@@ -1,0 +1,49 @@
+name: 🚢 Cruise Countdown
+
+on:
+  schedule:
+    - cron: '1 4 * * *'  # Runs every day at 4:01 AM UTC (00:01 NYC)
+  workflow_dispatch:      # Allows manual triggering
+
+jobs:
+  countdown:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Needed to commit changes to the repo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Calculate days and update README
+        run: |
+          CRUISE_DATE="2026-08-09"
+          TODAY=$(date -u +%Y-%m-%d)
+
+          CRUISE_EPOCH=$(date -d "$CRUISE_DATE" +%s)
+          TODAY_EPOCH=$(date -d "$TODAY" +%s)
+
+          DIFF=$(( (CRUISE_EPOCH - TODAY_EPOCH) / 86400 ))
+
+          if [ "$DIFF" -gt 1 ]; then
+            MESSAGE="🚢 $DIFF days until the cruise on August 9, 2026!"
+          elif [ "$DIFF" -eq 1 ]; then
+            MESSAGE="🚢 1 day to go — the cruise is TOMORROW!"
+          elif [ "$DIFF" -eq 0 ]; then
+            MESSAGE="🎉 TODAY IS THE DAY! Bon voyage! ⚓"
+          else
+            MESSAGE="🌊 The cruise was $((DIFF * -1)) day(s) ago. Hope it was amazing!"
+          fi
+
+          echo "$MESSAGE"
+
+          # Replace the line between the countdown markers in README.md
+          sed -i "s|<!-- COUNTDOWN_START -->.*<!-- COUNTDOWN_END -->|<!-- COUNTDOWN_START -->$MESSAGE<!-- COUNTDOWN_END -->|" README.md
+
+      - name: Commit updated README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update cruise countdown"
+          git push
