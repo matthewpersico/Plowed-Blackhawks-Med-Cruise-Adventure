@@ -2,6 +2,7 @@
 [Back](README.md)
 
 ## Monday, August 10
+
 |Who|Where|Time|
 |-|-|-|
 |Diana and Matt|||
@@ -12,6 +13,7 @@
 |Marge|||
 
 ## Tuesday, August 11
+
 |Who|Where|Time|
 |-|-|-|
 |Diana and Matt|Cagney's Steakhouse|6:45|
@@ -22,6 +24,7 @@
 |Marge|||
 
 ## Wednesday, August 12
+
 |Who|Where|Time|
 |-|-|-|
 |Diana and Matt|||
@@ -32,6 +35,7 @@
 |Marge|||
 
 ## Thursday, August 13
+
 |Who|Where|Time|
 |-|-|-|
 |Diana and Matt|Shanghai's Restaurant|07:30|
@@ -42,6 +46,7 @@
 |Marge|||
 
 ## Friday, August 14
+
 |Who|Where|Time|
 |-|-|-|
 |Diana and Matt|||
@@ -52,6 +57,7 @@
 |Marge|||
 
 ## Saturday, August 15
+
 |Who|Where|Time|
 |-|-|-|
 |Diana and Matt|||
