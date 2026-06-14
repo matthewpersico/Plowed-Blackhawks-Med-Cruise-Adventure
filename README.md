@@ -1,4 +1,7 @@
 # Plowed Blackhawks Med Cruise Adventure
+
+<!-- COUNTDOWN_START -->🚢 56 days until the cruise on August 9, 2026!<!-- COUNTDOWN_END -->
+
 All the information we might need. You can update with your info by
 
 * [emailing me](mailto:matthew.persico+blackhawks@gmail.com)
