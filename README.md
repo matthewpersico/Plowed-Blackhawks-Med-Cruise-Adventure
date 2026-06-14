@@ -15,8 +15,8 @@ You can update this site with your info by either of two methods:
 [Email me](mailto:matthew.persico+blackhawks@gmail.com) the information.
 
 ### Like an IT geek
-* Fork and clone the repo
-* Make your changes
+* Fork and clone the source [repo](https://github.com/matthewpersico/Plowed-Blackhawks-Med-Cruise-Adventure/edit/main/README.md).
+* Make your changes.
 * Commit, push and send me a PR.
   
 The IT Geeks among us know what I am talking about. Marge and Anne might just delegate to their IT minons.
