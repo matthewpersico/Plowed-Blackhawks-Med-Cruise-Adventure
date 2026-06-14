@@ -15,7 +15,7 @@ You can update this site with your info by either of two methods:
 [Email me](mailto:matthew.persico+blackhawks@gmail.com) the information.
 
 ### Like an IT geek
-* Fork and clone the source [repo](https://github.com/matthewpersico/Plowed-Blackhawks-Med-Cruise-Adventure/edit/main/README.md).
+* Fork and clone the source [repo](https://github.com/matthewpersico/Plowed-Blackhawks-Med-Cruise-Adventure).
 * Make your changes.
 * Commit, push and send me a PR.
   
