@@ -60,6 +60,3 @@
 |Philomena|||
 |Anne|||
 |Marge|||
-
-## Sunday, August 16
-Eviction. :-(
