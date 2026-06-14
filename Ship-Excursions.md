@@ -2,8 +2,8 @@
 [Back](README.md)
 
 ## Monday, August 10
-|Who|Where|Time|
-|-|-|-|
+|Who|Where|Time|Return|
+|-|-|-|-|
 |Diana and Matt|Hilltop Le Castellet & Seaside Sanary|11:30|16:30|
 |Helene and Frank|||
 |Alex and Michelle|||
@@ -12,7 +12,7 @@
 |Marge|||
 
 ## Tuesday, August 11
-|Who|Where|Time|
+|Who|Where|Time|Return|
 |-|-|-|
 |Diana and Matt|Discover Nice|08:30|13:30|
 |Helene and Frank|||
@@ -22,9 +22,9 @@
 |Marge|||
 
 ## Wednesday, August 12
-|Who|Where|Time|
+|Who|Where|Time|Return|
 |-|-|-|
-|Diana and Matt|Hilltop Le Castellet & Seaside Sanary|11:30|16:30|
+|Diana and Matt|Let's Take A Selfie - Florence & Pisa|08:45|18:15|
 |Helene and Frank|||
 |Alex and Michelle|||
 |Philomena|||
@@ -32,19 +32,12 @@
 |Marge|||
 
 ## Thursday, August 13
-|Who|Where|Time|
-|-|-|-|
-|Diana and Matt|Hilltop Le Castellet & Seaside Sanary|11:30|16:30|
-|Helene and Frank|||
-|Alex and Michelle|||
-|Philomena|||
-|Anne|||
-|Marge|||
+### At Sea
 
 ## Friday, August 14
-|Who|Where|Time|
+|Who|Where|Time|Return|
 |-|-|-|
-|Diana and Matt|Hilltop Le Castellet & Seaside Sanary|11:30|16:30|
+|Diana and Matt|Savoca & Forza D'agro: 'The Godfather' Tour|08:30|13:30|
 |Helene and Frank|||
 |Alex and Michelle|||
 |Philomena|||
@@ -52,14 +45,11 @@
 |Marge|||
 
 ## Saturday, August 15
-|Who|Where|Time|
+|Who|Where|Time|Return|
 |-|-|-|
-|Diana and Matt|Hilltop Le Castellet & Seaside Sanary|11:30|16:30|
+|Diana and Matt|Pompeii & Enchanting Sorrento|08:00|16:00|
 |Helene and Frank|||
 |Alex and Michelle|||
 |Philomena|||
 |Anne|||
 |Marge|||
-
-## Sunday, August 16
-Eviction. :-(
