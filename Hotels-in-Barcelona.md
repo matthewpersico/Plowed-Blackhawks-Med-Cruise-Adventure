@@ -15,3 +15,5 @@ Av. Diagonal, 161, 163, Sant Martí, 08018
 
 [Hotel Pulitzer](https://hotelpulitzer.es/)
 Carrer de Bergara, 8, Eixample, 08002
+
+[Hotels and Cruise Departure Map](https://www.google.com/maps/dir/Four+Points+by+Sheraton+Barcelona+Diagonal,+Av.+Diagonal,+161,+163,+Sant+Mart%C3%AD,+08018+Barcelona,+Spain/Hotel+Pulitzer,+Carrer+de+Bergara,+8,+Eixample,+08002+Barcelona,+Spain/Cruise+Ship+Terminal,+Moll+de+Sant+Bertran,+3,+Sants-Montju%C3%AFc,+08039+Barcelona,+Spain/@41.3828934,2.1563219,14z/data=!4m20!4m19!1m5!1m1!1s0x12a4a33b81ecade7:0xc51a81b513a26b0b!2m2!1d2.1963537!2d41.4052816!1m5!1m1!1s0x12a4a2f38b5c7881:0xf51f841a43452f7!2m2!1d2.1683262!2d41.3861237!1m5!1m1!1s0x12a4a24fdde37797:0xf45c2157fa485785!2m2!1d2.1792314!2d41.3592972!3e0?entry=ttu&g_ep=EgoyMDI2MDYxMC4wIKXMDSoASAFQAw%3D%3D)
