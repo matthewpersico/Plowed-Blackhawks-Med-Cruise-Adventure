@@ -1,2 +1,5 @@
 # Plowed-Blackhawks-Med-Cruise-Adventure
-Info we can all use.
+
+All the information we might want.
+
+[Flights to Barcelona](Flights-to-Barcelona.md)
