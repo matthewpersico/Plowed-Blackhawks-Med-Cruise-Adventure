@@ -10,8 +10,8 @@ If you send me your NCL and reservation numbers, I'll be happy to complete your 
 
 * [Diana](http://www.ncl.com/shorex/275458121/60182987/vacation-summary)
 * [Matt](http://www.ncl.com/shorex/275458105/60182987/vacation-summary)
-* [Helene](http://www.ncl.com/shorex/<your ncl number>/<reservation number>/vacation-summary)
-* [Frank](http://www.ncl.com/shorex/<your ncl number>/<reservation number>/vacation-summary)
+* [Helene](http://www.ncl.com/shorex/263047000/60182747/vacation-summary)
+* [Frank](http://www.ncl.com/shorex/2163035554/60182747/vacation-summary)
 * [Alex](http://www.ncl.com/shorex/<your ncl number>/<reservation number>/vacation-summary)
 * [Michelle](http://www.ncl.com/shorex/<your ncl number>/<reservation number>/vacation-summary)
 * [Philomena](http://www.ncl.com/shorex/<your ncl number>/<reservation number>/vacation-summary)
