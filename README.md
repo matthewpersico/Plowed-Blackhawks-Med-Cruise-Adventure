@@ -1,4 +1,4 @@
-## <!-- COUNTDOWN_START -->🚢 56 days until the cruise on August 9, 2026!<!-- COUNTDOWN_END -->
+## <!-- COUNTDOWN_START -->🚢 55 days until the cruise on August 9, 2026!<!-- COUNTDOWN_END -->
 
 ## Info
 * [Flights to Barcelona](Flights-to-Barcelona.md)
