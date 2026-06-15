@@ -10,3 +10,9 @@
 |Marge Ginsburg|10292|
 
 [Deck 10](https://www.ncl.com/cruise-ships/norwegian-epic/deck-plans#filter=deck-10)
+<iframe
+  src="https://www.ncl.com/cruise-ships/norwegian-epic/deck-plans#filter=deck-10"
+  width="100%"
+  height="800"
+  style="border: 1px solid #ccc;">
+</iframe>
