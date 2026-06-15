@@ -3,9 +3,9 @@
 
 When you log into NCL on the web, you get your vacation summary at at a url that looks like
 
-`http://www.ncl.com/shorex/<your ncl number>/<reservation number>/vacation-summary`.
+`http://www.ncl.com/shorex/<your ncl number>/<reservation number>/vacation-summary`
 
-If you send me your NCL and reservation numbers, I'll be happy comnplete your links here. And yes, it's secure; you will have to still log in at least once.
+If you send me your NCL and reservation numbers, I'll be happy to complete your links here. And yes, it's secure; you will have to still log in at least once to access the page.
 
 
 * [Diana](http://www.ncl.com/shorex/275458121/60182987/vacation-summary)
