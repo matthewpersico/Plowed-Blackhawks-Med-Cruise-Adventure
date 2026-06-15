@@ -4,7 +4,7 @@
 * 🛳️ [Vacation Summaries](Vacation-Summaries.md)
 * ✈️ [Flights to Barcelona](Flights-to-Barcelona.md)
 * 🏨 [Hotels in Barcelona](Hotels-in-Barcelona.md)
-*    [Staterooms](Staterooms.md)
+* 🚪 [Staterooms](Staterooms.md)
 * 🥾 [Ship Excursions](Ship-Excursions.md)
 * 🍽️ [Dinners](Dinners.md)
 
