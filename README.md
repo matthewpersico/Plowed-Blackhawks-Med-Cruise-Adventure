@@ -1,11 +1,12 @@
 ## <!-- COUNTDOWN_START -->🚢 55 days until the cruise on August 9, 2026!<!-- COUNTDOWN_END -->
 
 ## Info
+* 🛳️ [Vacation Summaries](Vacation-Summaries.md)
 * ✈️ [Flights to Barcelona](Flights-to-Barcelona.md)
 * 🏨 [Hotels in Barcelona](Hotels-in-Barcelona.md)
+*    [Staterooms](Staterooms.md)
 * 🥾 [Ship Excursions](Ship-Excursions.md)
 * 🍽️ [Dinners](Dinners.md)
-* 🛳️ [Vacation Summaries](Vacation-Summaries.md)
 
 ## Updates
 You can update this site with your info by either of two methods:
