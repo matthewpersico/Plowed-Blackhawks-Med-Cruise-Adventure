@@ -20,4 +20,4 @@ You can update this site with your info by either of two methods:
 * Make your changes.
 * Commit, push and send me a PR.
 
-The IT Geeks among us know what I am talking about. Marge and Anne might just delegate to their IT minons.
+The IT Geeks among us know what I am talking about. Marge and Anne might just delegate to their IT minions.
