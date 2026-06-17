@@ -1,7 +1,7 @@
 # Staterooms
-[Back](README.md)
+[⬅️Back](README.md)
 
-[Deck 10](https://www.ncl.com/cruise-ships/norwegian-epic/deck-plans#filter=deck-10)
+[Map of Deck 10](https://www.ncl.com/cruise-ships/norwegian-epic/deck-plans#filter=deck-10)
 
 |Who|Number|
 |-|-|
