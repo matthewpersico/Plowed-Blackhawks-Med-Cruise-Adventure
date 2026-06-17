@@ -1,5 +1,5 @@
 # Hotels in Barcelona
-[Back](README.md)
+[⬅️Back](README.md)
 
 |Who|Hotel|
 |-|-|
