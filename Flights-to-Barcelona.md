@@ -1,5 +1,5 @@
 # Flights to Barcelona
-[Back](README.md)
+[⬅️Back](README.md)
 
 | Who               | Flight          | From                 | To                   |
 |-------------------|-----------------|----------------------|----------------------|
