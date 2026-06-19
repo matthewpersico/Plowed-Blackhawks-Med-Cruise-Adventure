@@ -1,4 +1,4 @@
-## <!-- COUNTDOWN_START -->🚢 52 days until the cruise on August 9, 2026!<!-- COUNTDOWN_END -->
+## <!-- COUNTDOWN_START -->🚢 51 days until the cruise on August 9, 2026!<!-- COUNTDOWN_END -->
 
 ## Info
 * 📰 [News](News.md)
