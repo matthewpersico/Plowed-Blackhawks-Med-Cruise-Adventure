@@ -1,6 +1,7 @@
 ## <!-- COUNTDOWN_START -->🚢 51 days until the cruise on August 9, 2026!<!-- COUNTDOWN_END -->
 
 ## Info
+*    [Facebook Links](Facebook-Links.md)
 * 📰 [News](News.md)
 * 🛳️ [Vacation Summaries](Vacation-Summaries.md)
 * ✈️ [Flights to Barcelona](Flights-to-Barcelona.md)
