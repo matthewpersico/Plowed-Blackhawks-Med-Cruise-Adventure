@@ -1,9 +1,19 @@
 # Vacation Summaries
+<style>
+.avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  vertical-align: middle;
+  margin-right: 8px;
+  object-fit: cover;
+}
+</style>
 [⬅️Back](README.md)
 
 Here are your personal Vacation Summary pages (you will have to log in):
 
-* <img src="assets/images/people/diana.jpg" width="40" height="40" style="border-radius: 50%;"> [Diana](http://www.ncl.com/shorex/275458121/60182987/vacation-summary)
+* ![Diana](assets/images/people/diana.jpg){: .avatar} [Diana](http://www.ncl.com/shorex/275458121/60182987/vacation-summary)
 * [Matt](http://www.ncl.com/shorex/275458105/60182987/vacation-summary)
 * [Helene](http://www.ncl.com/shorex/263047000/60182747/vacation-summary)
 * [Frank](http://www.ncl.com/shorex/2163035554/60182747/vacation-summary)
