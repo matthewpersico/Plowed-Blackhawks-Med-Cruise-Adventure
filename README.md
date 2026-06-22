@@ -1,4 +1,4 @@
-## <!-- COUNTDOWN_START -->🚢 49 days until the cruise on August 9, 2026!<!-- COUNTDOWN_END -->
+## <!-- COUNTDOWN_START -->🚢 48 days until the cruise on August 9, 2026!<!-- COUNTDOWN_END -->
 
 ## Info
 * <img width="19" height="20" alt="facebook-icon" src="https://github.com/user-attachments/assets/89fc1021-630d-4bbd-afd3-c548fa15ba7c" />
