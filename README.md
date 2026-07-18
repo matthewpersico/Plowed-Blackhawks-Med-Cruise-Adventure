@@ -10,8 +10,8 @@
 * 🚪 [Staterooms](Staterooms.md)
 * 🥾 [Ship Excursions](Ship-Excursions.md)
 * 🍽️ [Dinners](Dinners.md)
-*    [Etc. Packing List](Etc-Packing-List.md)
-*    [Day 1 Requests](Day-1-Requests.md)
+* 🗒️ [Etc. Packing List](Etc-Packing-List.md)
+* 🚩 [Day 1 Requests](Day-1-Requests.md)
 
 ## Updates
 You can update this site with your info by either of two methods:
