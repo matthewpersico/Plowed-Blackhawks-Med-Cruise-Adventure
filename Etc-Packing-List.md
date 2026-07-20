@@ -13,6 +13,7 @@
 
 According to Anne, here is a list of suggestions to add to your luggage, with some editorials added by Matt:
 
+* [ ] FLASHLIGHT. Dry alkaline batteries (like AA, AAA, C, D) are permitted in both carry-on and checked baggage worldwide. Not so much for the boat, but for your hotel stays in the hottest summer Europe has seen in decades.
 * [ ] Magnetic hooks.
 * [ ] Tissues/Travel toilet wipes.
 * [ ] Hand sanitizer. Like all liquids, 3.4 oz limit or it has to be checked.
