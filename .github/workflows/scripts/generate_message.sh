@@ -1,5 +1,6 @@
 # -*- sh -*-
 # shellcheck shell=bash
+    # shellcheck disable=SC2059 #https://github.com/koalaman/shellcheck/wiki/SC2059
 
 FLY_DATE="2026-08-06"
 CRUISE_DATE="2026-08-09"
@@ -21,36 +22,47 @@ FLY_HOME_DIFF=$(( (FLY_HOME_EPOCH - TODAY_EPOCH) / 86400 ))
 DAY_OF_CRUISE=$(( (TODAY_EPOCH - CRUISE_EPOCH) /86400 ))
 DAY_OF_CRUISE=$(( DAY_OF_CRUISE + 1 ))
 
+# shellcheck disable=SC2089 #https://github.com/koalaman/shellcheck/wiki/SC2089
 ITALIAN_FLAG='<img src="assets/images/Flag_of_Italy.svg" alt="Italian flag" width="20">'
 
+TWO_LINE_FORMAT='# %s\n \n# %s'
+ONE_LINE_FORMAT='# %s'
 if [ "$FLY_DIFF" -gt 1 ]; then
-    printf -v MESSAGE '%s\n%s' \
-           "✈️ $FLY_DIFF days until we leave for Barcelona on August 6th," \
+    printf -v MESSAGE "$TWO_LINE_FORMAT" \
+           "✈️ $FLY_DIFF days until we leave for Barcelona on August 6th" \
            "🚢 $CRUISE_DIFF days until the cruise on August 9th!"
 elif [ "$FLY_DIFF" -eq 1 ]; then
-    printf -v MESSAGE '%s\n%s' \
+    printf -v MESSAGE "$TWO_LINE_FORMAT" \
            "✈️ $FLY_DIFF day to go - we fly tomorrow!" \
            "🚢 $CRUISE_DIFF days until the cruise on August 9th."
 elif [ "$FLY_DIFF" -eq 0 ]; then
-    printf -v MESSAGE '%s\n%s' \
+    printf -v MESSAGE "$TWO_LINE_FORMAT" \
            "✈️ Barcelona, here we come!" \
            "🚢 $CRUISE_DIFF days until the cruise on August 9th."
 elif [ "$CRUISE_DIFF" -gt 1 ]; then
-    MESSAGE="🚢 $CRUISE_DIFF days until the cruise on August 9, 2026!"
+    printf -v MESSAGE "$ONE_LINE_FORMAT" \
+           "🚢 $CRUISE_DIFF days until the cruise on August 9, 2026!"
 elif [ "$CRUISE_DIFF" -eq 1 ]; then
-    MESSAGE="🚢 1 day to go — the cruise is TOMORROW!"
+    printf -v MESSAGE "$ONE_LINE_FORMAT" \
+           "🚢 1 day to go — the cruise is TOMORROW!"
 elif [ "$CRUISE_DIFF" -eq 0 ]; then
-    MESSAGE="🎉 TODAY IS THE DAY! Bon voyage! ⚓"
+    printf -v MESSAGE "$ONE_LINE_FORMAT" \
+           "🎉 TODAY IS THE DAY! Bon voyage! ⚓"
 elif [ "$END_CRUISE_DIFF" -gt 0 ]; then
-    MESSAGE="🚢 Today is Cruise Day $DAY_OF_CRUISE. Enjoy!"
+    printf -v MESSAGE "$ONE_LINE_FORMAT" \
+           "🚢 Today is Cruise Day $DAY_OF_CRUISE. Enjoy!"
 elif [ "$END_CRUISE_DIFF" -eq 0 ]; then
-    MESSAGE='😞 Today is Disembarkation day. Enjoy your time in '${ITALIAN_FLAG}'!'
+    printf -v MESSAGE "$ONE_LINE_FORMAT" \
+           '😞 Today is Disembarkation day. Enjoy your time in '"${ITALIAN_FLAG}"'!'
 elif [ "$FLY_HOME_DIFF" -gt 0 ]; then
-    MESSAGE='Enjoy your time in '${ITALIAN_FLAG}'!'
+    printf -v MESSAGE "$ONE_LINE_FORMAT" \
+           'Enjoy your time in '"${ITALIAN_FLAG}"'!'
 elif [ "$FLY_HOME_DIFF" -eq 0 ]; then
-    MESSAGE="✈️ Time to go home!"
+    printf -v MESSAGE "$ONE_LINE_FORMAT" \
+           "✈️ Time to go home!"
 else
-    MESSAGE="🌊 The cruise ended $((END_CRUISE_DIFF * -1)) days ago. Hope it was amazing for you!"
+    printf -v MESSAGE "$ONE_LINE_FORMAT" \
+           "🌊 The cruise ended $((END_CRUISE_DIFF * -1)) days ago. Hope it was amazing for you!"
 fi
 
 echo "$MESSAGE"
