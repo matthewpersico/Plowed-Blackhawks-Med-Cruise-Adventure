@@ -17,7 +17,7 @@ Hello!
 
 We are ______________________________________
 
-We would appreciate it very much if you could take care of these items for us.
+We would appreciate it very much if you could provide us with these items.
 
 * [ ] Distilled water. (Reminder for CPAP folks!)
 * [ ] 20 extra hangers (wire is fine).
