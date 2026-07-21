@@ -16,38 +16,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Calculate days and update README
-        run: |
-          CRUISE_DATE="2026-08-09"
-          END_CRUISE_DATE="2026-08-16"
-          TODAY=$(date -u +%Y-%m-%d)
-
-          CRUISE_EPOCH=$(date -d "$CRUISE_DATE" +%s)
-          END_CRUISE_EPOCH=$(date -d "$CRUISE_DATE" +%s)
-          TODAY_EPOCH=$(date -d "$TODAY" +%s)
-
-          DIFF=$(( (CRUISE_EPOCH - TODAY_EPOCH) / 86400 ))
-          END_DIFF=$(( (END_CRUISE_EPOCH - TODAY_EPOCH) / 86400 ))
-
-          if [ "$DIFF" -gt 1 ]; then
-            MESSAGE="🚢 $DIFF days until the cruise on August 9, 2026!"
-          elif [ "$DIFF" -eq 1 ]; then
-            MESSAGE="🚢 1 day to go — the cruise is TOMORROW!"
-          elif [ "$DIFF" -eq 0 ]; then
-            MESSAGE="🎉 TODAY IS THE DAY! Bon voyage! ⚓"
-          elif [ "$END_DIFF" > 0 ]; then
-            DAY_OF_CRUISE=$(( END_DIFF - 4))
-            MESSAGE="🎉 Hi! Today is Cruise Day $DAY_OF_CRUISE. Enjoy!"
-          elif [ "$END_DIFF" = 0 ]; then
-            DAY_OF_CRUISE=$(( END_DIFF - 4))
-            MESSAGE="Today is Disembarkation day. Enjoy your time in Italy!"
-          else
-            MESSAGE="🌊 The cruise was $((DIFF * -1)) day(s) ago. Hope it was amazing!"
-          fi
-
-          echo "$MESSAGE"
-
-          # Replace the line between the countdown markers in README.md
-          sed -i "s|<!-- COUNTDOWN_START -->.*<!-- COUNTDOWN_END -->|<!-- COUNTDOWN_START -->$MESSAGE<!-- COUNTDOWN_END -->|" README.md
+        run: ./scripts/generate_message.sh
 
       - name: Commit updated README
         run: |
