@@ -1,6 +1,10 @@
 name: 🚢 Cruise Countdown
 
 on:
+  push:
+    branches:
+      - main
+
   schedule:
     - cron: '1 4 * * *'  # Runs every day at 4:01 AM UTC (00:01 NYC)
   workflow_dispatch:      # Allows manual triggering
