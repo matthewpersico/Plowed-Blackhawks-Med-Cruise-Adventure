@@ -26,7 +26,7 @@ We would appreciate it very much if you could take care of these items for us.
 * [ ] 2 bathrobes.
 * [ ] An extra blanket.
 * [ ] A fan.
-* [ ] An exension cord.
+* [ ] An extension cord.
 * [ ] Please remove any empty drink glasses.
 
 Thank you!
