@@ -15,7 +15,7 @@ According to Anne, print these on a Post-It ( I think it's going to take a bigge
 
 Hello!
 
-We are <div style="width:200px"><hr/></div>.
+We are ______________________________________
 
 We would appreciate it very much if you could take care of these items for us.
 
