@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Calculate days and update README
-        run: ./scripts/generate_message.sh
+        run: ./.github/workflows/scripts/generate_message.sh
 
       - name: Commit updated README
         run: |
