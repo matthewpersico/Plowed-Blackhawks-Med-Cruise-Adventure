@@ -1,4 +1,7 @@
-## <!-- COUNTDOWN_START -->🚢 19 days until the cruise on August 9, 2026!<!-- COUNTDOWN_END -->
+## <!-- COUNTDOWN_START -->
+✈️ 16 days until we leave for Barcelona on August 6th,
+🚢 19 days until the cruise on August 9th!
+<!-- COUNTDOWN_END -->
 
 ## Info
 * <img width="19" height="20" alt="facebook-icon" src="https://github.com/user-attachments/assets/89fc1021-630d-4bbd-afd3-c548fa15ba7c" />
