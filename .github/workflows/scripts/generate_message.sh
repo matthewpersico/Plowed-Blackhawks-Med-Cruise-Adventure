@@ -55,19 +55,28 @@ fi
 
 echo "$MESSAGE"
 
-# Replace the line between the countdown markers in README.md
-REPO_ROOT=${GITHUB_WORKSPACE:-$(git rev-parse --show-toplevel)}
+##
+## Replace the line between the countdown markers in README.md
+##
+
+# Determine the top dir in the repo.
+REPO_ROOT=${GITHUB_WORKSPACE:-$(git -C "$(dirname -- "${BASH_SOURCE[0]}")" rev-parse --show-toplevel)}
+
+# Define what file we are modifying
 README="$REPO_ROOT/README.md"
 
 if [[ ${GITHUB_ACTIONS:-false} == true ]]; then
+    # If on the github site, modify the actual file.
     OUTPUT=$README
 else
+    # Create a copy for testing.
     OUTPUT="$REPO_ROOT/README.test.md"
     cp -- "$README" "$OUTPUT"
 fi
 
 printf 'Editing: %s\n' "$OUTPUT"
 
+# Check syntax on replacement marker.
 if ! grep -q '<!--[[:space:]]*COUNTDOWN_START[[:space:]]*-->' "$OUTPUT"; then
     printf 'ERROR: COUNTDOWN_START marker not found in %s\n' "$OUTPUT" >&2
     exit 1
@@ -78,8 +87,11 @@ if ! grep -q '<!--[[:space:]]*COUNTDOWN_END[[:space:]]*-->' "$OUTPUT"; then
     exit 1
 fi
 
+# 'export'ing is the easiest way to get any embedded newlines through all the
+# shell processing.
 export MESSAGE
 
+# Do the replacement.
 perl -0pi -e '
     $replacement =
         "<!-- COUNTDOWN_START -->\n"
