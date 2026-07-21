@@ -19,6 +19,7 @@ We are <div style="width:200px"><hr/></div>.
 
 We would appreciate it very much if you could take care of these items for us.
 
+* [ ] Distilled water. (Reminder for CPAP folks!)
 * [ ] 20 extra hangers (wire is fine).
 * [ ] 4 sets of towels in the bathroom at all times.
 * [ ] Bucket of ice in fridge at all times.
