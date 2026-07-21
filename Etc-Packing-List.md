@@ -23,6 +23,7 @@ According to Anne, here is a list of suggestions to add to your luggage, with so
 * [ ] Univeral power adapter.
 * [ ] Ziploc bags (two gallon, one gallon, one quart).
 * [ ] Two nanobags (backpack and sling).
+* [ ] Small tote bag for sea/beach days for sunblock, reading material, etc.
 * [ ] Post-It notes and pen (to communicate with room steward).
 * [ ] Highligher.
 * [ ] Lanyard or yo-yo for cruise card.
