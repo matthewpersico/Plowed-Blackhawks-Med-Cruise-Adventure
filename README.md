@@ -1,7 +1,7 @@
 <!-- COUNTDOWN_START -->
-# ✈️ 9 days until we leave for Barcelona on August 6th
+# ✈️ 8 days until we leave for Barcelona on August 6th
  
-# 🚢 12 days until the cruise on August 9th!
+# 🚢 11 days until the cruise on August 9th!
 <!-- COUNTDOWN_END -->
 
 ## Info
