@@ -8,8 +8,6 @@
 | Helene and Frank  | Delta           | PBI 2026/08/06 13:35 | BOS                  |
 |                   |                 | BOS                  | BCN 2026/08/07 08:30 |
 |                   |                 |                      |                      |
-| Alex and Michelle | ?               | JFK 2026/08/06 18:55 | BCN 2026/08/07 08:45 |
-| Philomena         | "               |          "           |          "           |
-| Anne              | "               |          "           |          "           |
+| Alex, Michelle, Anne and Philomena | ?               | JFK 2026/08/06 18:55 | BCN 2026/08/07 08:45 |
 |                   |                 |                      |                      |
 | Marge             |                 |                      |                      |

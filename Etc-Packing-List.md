@@ -25,7 +25,7 @@ According to Anne, here is a list of suggestions to add to your luggage, with so
 * [ ] Two nanobags (backpack and sling).
 * [ ] Small tote bag for sea/beach days for sunblock, reading material, etc.
 * [ ] Post-It notes and pen (to communicate with room steward).
-* [ ] Highligher.
+* [ ] Highlighter.
 * [ ] Lanyard or yo-yo for cruise card.
 * [ ] Closeline with clips.
 * [ ] One insulated water bottle and carbiner.
