@@ -1,7 +1,7 @@
 <!-- COUNTDOWN_START -->
-# ✈️ 2 days until we leave for Barcelona on August 6th
+# ✈️ 1 day to go - we fly tomorrow!
  
-# 🚢 5 days until the cruise on August 9th!
+# 🚢 4 days until the cruise on August 9th.
 <!-- COUNTDOWN_END -->
 
 ## Info
