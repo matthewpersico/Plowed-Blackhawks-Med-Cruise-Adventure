@@ -1,7 +1,7 @@
 <!-- COUNTDOWN_START -->
-# ✈️ 1 day to go - we fly tomorrow!
+# ✈️ Barcelona, here we come!
  
-# 🚢 4 days until the cruise on August 9th.
+# 🚢 3 days until the cruise on August 9th.
 <!-- COUNTDOWN_END -->
 
 ## Info
