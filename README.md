@@ -1,7 +1,5 @@
 <!-- COUNTDOWN_START -->
-# ✈️ Barcelona, here we come!
- 
-# 🚢 3 days until the cruise on August 9th.
+# 🚢 2 days until the cruise on August 9, 2026!
 <!-- COUNTDOWN_END -->
 
 ## Info
