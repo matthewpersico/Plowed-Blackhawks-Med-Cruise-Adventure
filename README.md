@@ -1,5 +1,5 @@
 <!-- COUNTDOWN_START -->
-# 🚢 2 days until the cruise on August 9, 2026!
+# 🚢 1 day to go — the cruise is TOMORROW!
 <!-- COUNTDOWN_END -->
 
 ## Info
