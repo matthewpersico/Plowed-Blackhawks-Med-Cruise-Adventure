@@ -1,5 +1,5 @@
 <!-- COUNTDOWN_START -->
-# 🚢 1 day to go — the cruise is TOMORROW!
+# 🎉 TODAY IS THE DAY! Bon voyage! ⚓
 <!-- COUNTDOWN_END -->
 
 ## Info
