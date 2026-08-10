@@ -1,5 +1,5 @@
 <!-- COUNTDOWN_START -->
-# 🎉 TODAY IS THE DAY! Bon voyage! ⚓
+# 🚢 Today is Cruise Day 2. Enjoy!
 <!-- COUNTDOWN_END -->
 
 ## Info
