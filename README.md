@@ -1,5 +1,5 @@
 <!-- COUNTDOWN_START -->
-# 🚢 Today is Cruise Day 4. Enjoy!
+# 🚢 Today is Cruise Day 5. Enjoy!
 <!-- COUNTDOWN_END -->
 
 ## Info
