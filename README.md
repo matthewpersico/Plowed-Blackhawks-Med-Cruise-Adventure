@@ -1,5 +1,5 @@
 <!-- COUNTDOWN_START -->
-# 🚢 Today is Cruise Day 7. Enjoy!
+# 😞 Today is Disembarkation day. Enjoy your time in <img src="assets/images/Flag_of_Italy.svg" alt="Italian flag" width="20">!
 <!-- COUNTDOWN_END -->
 
 ## Info
