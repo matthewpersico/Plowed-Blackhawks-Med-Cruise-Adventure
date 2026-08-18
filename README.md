@@ -1,5 +1,5 @@
 <!-- COUNTDOWN_START -->
-# Enjoy your time in <img src="assets/images/Flag_of_Italy.svg" alt="Italian flag" width="20">!
+# ✈️ Time to go home!
 <!-- COUNTDOWN_END -->
 
 ## Info
