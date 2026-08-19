@@ -1,5 +1,5 @@
 <!-- COUNTDOWN_START -->
-# ✈️ Time to go home!
+# 🌊 The cruise ended 3 days ago. Hope it was amazing for you!
 <!-- COUNTDOWN_END -->
 
 ## Info
