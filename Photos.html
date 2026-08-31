@@ -8,14 +8,16 @@ title: Cruise Photos
   href="{{ '/assets/gallery.css' | relative_url }}"
 >
 
+
 <div class="photo-gallery-page">
 
   <h1>📸 Cruise Photos</h1>
 
   <p>
-    Photos from our Mediterranean cruise.
-    Click any picture to enlarge it.
+    Photos and videos from our Mediterranean cruise.
+    Click any item to enlarge it or play it.
   </p>
+
 
   {% if site.data.photos.size > 0 %}
 
@@ -31,18 +33,40 @@ title: Cruise Photos
           data-person="{{ person.name | escape }}"
         >
 
-          {% for photo in person.photos %}
+          {% for item in person.media %}
 
             <a
               class="gallery-item"
-              href="{{ photo.path | relative_url }}"
-              data-filename="{{ photo.filename | escape }}"
+              href="{{ item.path | relative_url }}"
+              data-type="{{ item.type }}"
+              data-filename="{{ item.filename | escape }}"
             >
-              <img
-                src="{{ photo.path | relative_url }}"
-                alt="{{ person.name | escape }}: {{ photo.filename | escape }}"
-                loading="lazy"
-              >
+
+              {% if item.type == "video" %}
+
+                <img
+                  src="{{ item.thumbnail | relative_url }}"
+                  alt="{{ person.name | escape }}: {{ item.filename | escape }}"
+                  loading="lazy"
+                >
+
+                <span
+                  class="video-indicator"
+                  aria-hidden="true"
+                >
+                  ▶
+                </span>
+
+              {% else %}
+
+                <img
+                  src="{{ item.path | relative_url }}"
+                  alt="{{ person.name | escape }}: {{ item.filename | escape }}"
+                  loading="lazy"
+                >
+
+              {% endif %}
+
             </a>
 
           {% endfor %}
@@ -53,13 +77,15 @@ title: Cruise Photos
 
     {% endfor %}
 
+
   {% else %}
 
-    <p>No photos have been uploaded yet.</p>
+    <p>No photos or videos have been uploaded yet.</p>
 
   {% endif %}
 
 </div>
+
 
 
 <div
@@ -77,30 +103,48 @@ title: Cruise Photos
     &times;
   </button>
 
+
   <button
     id="lightbox-prev"
     class="lightbox-nav lightbox-prev"
     type="button"
-    aria-label="Previous photo"
+    aria-label="Previous item"
   >
     &#10094;
   </button>
 
+
   <div class="lightbox-content">
+
     <img
       id="lightbox-image"
+      class="lightbox-media"
       src=""
       alt=""
     >
 
+
+    <video
+      id="lightbox-video"
+      class="lightbox-media"
+      controls
+      playsinline
+      preload="metadata"
+    >
+      Your browser does not support HTML video.
+    </video>
+
+
     <div id="lightbox-caption"></div>
+
   </div>
+
 
   <button
     id="lightbox-next"
     class="lightbox-nav lightbox-next"
     type="button"
-    aria-label="Next photo"
+    aria-label="Next item"
   >
     &#10095;
   </button>
