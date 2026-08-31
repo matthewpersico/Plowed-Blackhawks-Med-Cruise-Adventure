@@ -1,2426 +1,3151 @@
 [
   {
     "name": "Matthew",
-    "photos": [
+    "media": [
       {
         "path": "/photos/Matthew/IMG_0214.JPEG",
-        "filename": "IMG_0214.JPEG"
+        "filename": "IMG_0214.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0220.JPEG",
-        "filename": "IMG_0220.JPEG"
+        "filename": "IMG_0220.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0221.PNG",
-        "filename": "IMG_0221.PNG"
+        "filename": "IMG_0221.PNG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0222.JPEG",
-        "filename": "IMG_0222.JPEG"
+        "filename": "IMG_0222.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0223.JPEG",
-        "filename": "IMG_0223.JPEG"
+        "filename": "IMG_0223.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0223_1.jpg",
-        "filename": "IMG_0223_1.jpg"
+        "filename": "IMG_0223_1.jpg",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0234.jpg",
-        "filename": "IMG_0234.jpg"
+        "filename": "IMG_0234.jpg",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0235.jpg",
-        "filename": "IMG_0235.jpg"
+        "filename": "IMG_0235.jpg",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0236.JPEG",
-        "filename": "IMG_0236.JPEG"
+        "filename": "IMG_0236.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0237.JPEG",
-        "filename": "IMG_0237.JPEG"
+        "filename": "IMG_0237.JPEG",
+        "type": "image"
+      },
+      {
+        "path": "/photos/Matthew/IMG_0238.MP4",
+        "filename": "IMG_0238.MP4",
+        "type": "video",
+        "thumbnail": "/assets/gallery-thumbnails/IMG_0238-80b09525dd07.jpg"
       },
       {
         "path": "/photos/Matthew/IMG_0239.jpg",
-        "filename": "IMG_0239.jpg"
+        "filename": "IMG_0239.jpg",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0240.JPEG",
-        "filename": "IMG_0240.JPEG"
+        "filename": "IMG_0240.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0241.JPEG",
-        "filename": "IMG_0241.JPEG"
+        "filename": "IMG_0241.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0242.JPEG",
-        "filename": "IMG_0242.JPEG"
+        "filename": "IMG_0242.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0243.JPEG",
-        "filename": "IMG_0243.JPEG"
+        "filename": "IMG_0243.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0246.JPEG",
-        "filename": "IMG_0246.JPEG"
+        "filename": "IMG_0246.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0247.JPEG",
-        "filename": "IMG_0247.JPEG"
+        "filename": "IMG_0247.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0248.JPEG",
-        "filename": "IMG_0248.JPEG"
+        "filename": "IMG_0248.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0250.JPEG",
-        "filename": "IMG_0250.JPEG"
+        "filename": "IMG_0250.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0251.JPEG",
-        "filename": "IMG_0251.JPEG"
+        "filename": "IMG_0251.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0252.JPEG",
-        "filename": "IMG_0252.JPEG"
+        "filename": "IMG_0252.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0253.JPEG",
-        "filename": "IMG_0253.JPEG"
+        "filename": "IMG_0253.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0254.JPEG",
-        "filename": "IMG_0254.JPEG"
+        "filename": "IMG_0254.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0255.JPEG",
-        "filename": "IMG_0255.JPEG"
+        "filename": "IMG_0255.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0256.JPEG",
-        "filename": "IMG_0256.JPEG"
+        "filename": "IMG_0256.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0257.JPEG",
-        "filename": "IMG_0257.JPEG"
+        "filename": "IMG_0257.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0258.JPEG",
-        "filename": "IMG_0258.JPEG"
+        "filename": "IMG_0258.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0259.JPEG",
-        "filename": "IMG_0259.JPEG"
+        "filename": "IMG_0259.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0260.jpg",
-        "filename": "IMG_0260.jpg"
+        "filename": "IMG_0260.jpg",
+        "type": "image"
+      },
+      {
+        "path": "/photos/Matthew/IMG_0261.MP4",
+        "filename": "IMG_0261.MP4",
+        "type": "video",
+        "thumbnail": "/assets/gallery-thumbnails/IMG_0261-adcb6cdbc038.jpg"
+      },
+      {
+        "path": "/photos/Matthew/IMG_0262.MP4",
+        "filename": "IMG_0262.MP4",
+        "type": "video",
+        "thumbnail": "/assets/gallery-thumbnails/IMG_0262-a761950ca455.jpg"
       },
       {
         "path": "/photos/Matthew/IMG_0265.JPEG",
-        "filename": "IMG_0265.JPEG"
+        "filename": "IMG_0265.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0267.JPEG",
-        "filename": "IMG_0267.JPEG"
+        "filename": "IMG_0267.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0268.JPEG",
-        "filename": "IMG_0268.JPEG"
+        "filename": "IMG_0268.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0269.JPEG",
-        "filename": "IMG_0269.JPEG"
+        "filename": "IMG_0269.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0271.JPEG",
-        "filename": "IMG_0271.JPEG"
+        "filename": "IMG_0271.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0272.JPEG",
-        "filename": "IMG_0272.JPEG"
+        "filename": "IMG_0272.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0273.JPEG",
-        "filename": "IMG_0273.JPEG"
+        "filename": "IMG_0273.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0274.JPEG",
-        "filename": "IMG_0274.JPEG"
+        "filename": "IMG_0274.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0275.JPEG",
-        "filename": "IMG_0275.JPEG"
+        "filename": "IMG_0275.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0276.JPEG",
-        "filename": "IMG_0276.JPEG"
+        "filename": "IMG_0276.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0277.JPEG",
-        "filename": "IMG_0277.JPEG"
+        "filename": "IMG_0277.JPEG",
+        "type": "image"
+      },
+      {
+        "path": "/photos/Matthew/IMG_0278.MP4",
+        "filename": "IMG_0278.MP4",
+        "type": "video",
+        "thumbnail": "/assets/gallery-thumbnails/IMG_0278-27d728bd7450.jpg"
       },
       {
         "path": "/photos/Matthew/IMG_0279.JPEG",
-        "filename": "IMG_0279.JPEG"
+        "filename": "IMG_0279.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0280.JPEG",
-        "filename": "IMG_0280.JPEG"
+        "filename": "IMG_0280.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0281.JPEG",
-        "filename": "IMG_0281.JPEG"
+        "filename": "IMG_0281.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0282.JPEG",
-        "filename": "IMG_0282.JPEG"
+        "filename": "IMG_0282.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0283.JPEG",
-        "filename": "IMG_0283.JPEG"
+        "filename": "IMG_0283.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0284.JPEG",
-        "filename": "IMG_0284.JPEG"
+        "filename": "IMG_0284.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0285.JPEG",
-        "filename": "IMG_0285.JPEG"
+        "filename": "IMG_0285.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0286.JPEG",
-        "filename": "IMG_0286.JPEG"
+        "filename": "IMG_0286.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0287.JPEG",
-        "filename": "IMG_0287.JPEG"
+        "filename": "IMG_0287.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0288.JPEG",
-        "filename": "IMG_0288.JPEG"
+        "filename": "IMG_0288.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0289.JPEG",
-        "filename": "IMG_0289.JPEG"
+        "filename": "IMG_0289.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0290.JPEG",
-        "filename": "IMG_0290.JPEG"
+        "filename": "IMG_0290.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0291.JPEG",
-        "filename": "IMG_0291.JPEG"
+        "filename": "IMG_0291.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0292.JPEG",
-        "filename": "IMG_0292.JPEG"
+        "filename": "IMG_0292.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0294.JPEG",
-        "filename": "IMG_0294.JPEG"
+        "filename": "IMG_0294.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0295.JPEG",
-        "filename": "IMG_0295.JPEG"
+        "filename": "IMG_0295.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0296.JPEG",
-        "filename": "IMG_0296.JPEG"
+        "filename": "IMG_0296.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0297.JPEG",
-        "filename": "IMG_0297.JPEG"
+        "filename": "IMG_0297.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0298.JPEG",
-        "filename": "IMG_0298.JPEG"
+        "filename": "IMG_0298.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0299.JPEG",
-        "filename": "IMG_0299.JPEG"
+        "filename": "IMG_0299.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0300.JPEG",
-        "filename": "IMG_0300.JPEG"
+        "filename": "IMG_0300.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0301.JPEG",
-        "filename": "IMG_0301.JPEG"
+        "filename": "IMG_0301.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0303.JPEG",
-        "filename": "IMG_0303.JPEG"
+        "filename": "IMG_0303.JPEG",
+        "type": "image"
+      },
+      {
+        "path": "/photos/Matthew/IMG_0304.MP4",
+        "filename": "IMG_0304.MP4",
+        "type": "video",
+        "thumbnail": "/assets/gallery-thumbnails/IMG_0304-6cd34d0ade6e.jpg"
       },
       {
         "path": "/photos/Matthew/IMG_0305.JPEG",
-        "filename": "IMG_0305.JPEG"
+        "filename": "IMG_0305.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0306.JPEG",
-        "filename": "IMG_0306.JPEG"
+        "filename": "IMG_0306.JPEG",
+        "type": "image"
+      },
+      {
+        "path": "/photos/Matthew/IMG_0307.MP4",
+        "filename": "IMG_0307.MP4",
+        "type": "video",
+        "thumbnail": "/assets/gallery-thumbnails/IMG_0307-0c5cb7217e0b.jpg"
       },
       {
         "path": "/photos/Matthew/IMG_0308.JPEG",
-        "filename": "IMG_0308.JPEG"
+        "filename": "IMG_0308.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0309.JPEG",
-        "filename": "IMG_0309.JPEG"
+        "filename": "IMG_0309.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0310.JPEG",
-        "filename": "IMG_0310.JPEG"
+        "filename": "IMG_0310.JPEG",
+        "type": "image"
+      },
+      {
+        "path": "/photos/Matthew/IMG_0311.MP4",
+        "filename": "IMG_0311.MP4",
+        "type": "video",
+        "thumbnail": "/assets/gallery-thumbnails/IMG_0311-4a0917771487.jpg"
       },
       {
         "path": "/photos/Matthew/IMG_0312.JPEG",
-        "filename": "IMG_0312.JPEG"
+        "filename": "IMG_0312.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0313.JPEG",
-        "filename": "IMG_0313.JPEG"
+        "filename": "IMG_0313.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0315.JPEG",
-        "filename": "IMG_0315.JPEG"
+        "filename": "IMG_0315.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0317.JPEG",
-        "filename": "IMG_0317.JPEG"
+        "filename": "IMG_0317.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0319.JPEG",
-        "filename": "IMG_0319.JPEG"
+        "filename": "IMG_0319.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0321.JPEG",
-        "filename": "IMG_0321.JPEG"
+        "filename": "IMG_0321.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0323.JPEG",
-        "filename": "IMG_0323.JPEG"
+        "filename": "IMG_0323.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0324.JPEG",
-        "filename": "IMG_0324.JPEG"
+        "filename": "IMG_0324.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0325.JPEG",
-        "filename": "IMG_0325.JPEG"
+        "filename": "IMG_0325.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0326.JPEG",
-        "filename": "IMG_0326.JPEG"
+        "filename": "IMG_0326.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0327.JPEG",
-        "filename": "IMG_0327.JPEG"
+        "filename": "IMG_0327.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0328.JPEG",
-        "filename": "IMG_0328.JPEG"
+        "filename": "IMG_0328.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0329.JPEG",
-        "filename": "IMG_0329.JPEG"
+        "filename": "IMG_0329.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0330.JPEG",
-        "filename": "IMG_0330.JPEG"
+        "filename": "IMG_0330.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0331.JPEG",
-        "filename": "IMG_0331.JPEG"
+        "filename": "IMG_0331.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0332.JPEG",
-        "filename": "IMG_0332.JPEG"
+        "filename": "IMG_0332.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0333.JPEG",
-        "filename": "IMG_0333.JPEG"
+        "filename": "IMG_0333.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0335.JPEG",
-        "filename": "IMG_0335.JPEG"
+        "filename": "IMG_0335.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0336.JPEG",
-        "filename": "IMG_0336.JPEG"
+        "filename": "IMG_0336.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0337.JPEG",
-        "filename": "IMG_0337.JPEG"
+        "filename": "IMG_0337.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0338.JPEG",
-        "filename": "IMG_0338.JPEG"
+        "filename": "IMG_0338.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0339.JPEG",
-        "filename": "IMG_0339.JPEG"
+        "filename": "IMG_0339.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0340.JPEG",
-        "filename": "IMG_0340.JPEG"
+        "filename": "IMG_0340.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0342.JPEG",
-        "filename": "IMG_0342.JPEG"
+        "filename": "IMG_0342.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0343.JPEG",
-        "filename": "IMG_0343.JPEG"
+        "filename": "IMG_0343.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0344.JPEG",
-        "filename": "IMG_0344.JPEG"
+        "filename": "IMG_0344.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0345.JPEG",
-        "filename": "IMG_0345.JPEG"
+        "filename": "IMG_0345.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0346.JPEG",
-        "filename": "IMG_0346.JPEG"
+        "filename": "IMG_0346.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0347.JPEG",
-        "filename": "IMG_0347.JPEG"
+        "filename": "IMG_0347.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0348.JPEG",
-        "filename": "IMG_0348.JPEG"
+        "filename": "IMG_0348.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0349.JPEG",
-        "filename": "IMG_0349.JPEG"
+        "filename": "IMG_0349.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0350.JPEG",
-        "filename": "IMG_0350.JPEG"
+        "filename": "IMG_0350.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0351.JPEG",
-        "filename": "IMG_0351.JPEG"
+        "filename": "IMG_0351.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0352.JPEG",
-        "filename": "IMG_0352.JPEG"
+        "filename": "IMG_0352.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0353.JPEG",
-        "filename": "IMG_0353.JPEG"
+        "filename": "IMG_0353.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0354.JPEG",
-        "filename": "IMG_0354.JPEG"
+        "filename": "IMG_0354.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0355.JPEG",
-        "filename": "IMG_0355.JPEG"
+        "filename": "IMG_0355.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0356.JPEG",
-        "filename": "IMG_0356.JPEG"
+        "filename": "IMG_0356.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0357.JPEG",
-        "filename": "IMG_0357.JPEG"
+        "filename": "IMG_0357.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0358.JPEG",
-        "filename": "IMG_0358.JPEG"
+        "filename": "IMG_0358.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0359.JPEG",
-        "filename": "IMG_0359.JPEG"
+        "filename": "IMG_0359.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0360.JPEG",
-        "filename": "IMG_0360.JPEG"
+        "filename": "IMG_0360.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0361.JPEG",
-        "filename": "IMG_0361.JPEG"
+        "filename": "IMG_0361.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0362.JPEG",
-        "filename": "IMG_0362.JPEG"
+        "filename": "IMG_0362.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0363.JPEG",
-        "filename": "IMG_0363.JPEG"
+        "filename": "IMG_0363.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0364.JPEG",
-        "filename": "IMG_0364.JPEG"
+        "filename": "IMG_0364.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0365.JPEG",
-        "filename": "IMG_0365.JPEG"
+        "filename": "IMG_0365.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0367.JPEG",
-        "filename": "IMG_0367.JPEG"
+        "filename": "IMG_0367.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0368.JPEG",
-        "filename": "IMG_0368.JPEG"
+        "filename": "IMG_0368.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0369.JPEG",
-        "filename": "IMG_0369.JPEG"
+        "filename": "IMG_0369.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0370.JPEG",
-        "filename": "IMG_0370.JPEG"
+        "filename": "IMG_0370.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0371.JPEG",
-        "filename": "IMG_0371.JPEG"
+        "filename": "IMG_0371.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0372.JPEG",
-        "filename": "IMG_0372.JPEG"
+        "filename": "IMG_0372.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0373.JPEG",
-        "filename": "IMG_0373.JPEG"
+        "filename": "IMG_0373.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0374.JPEG",
-        "filename": "IMG_0374.JPEG"
+        "filename": "IMG_0374.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0375.JPEG",
-        "filename": "IMG_0375.JPEG"
+        "filename": "IMG_0375.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0376.JPEG",
-        "filename": "IMG_0376.JPEG"
+        "filename": "IMG_0376.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0377.JPEG",
-        "filename": "IMG_0377.JPEG"
+        "filename": "IMG_0377.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0379.JPEG",
-        "filename": "IMG_0379.JPEG"
+        "filename": "IMG_0379.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0380.JPEG",
-        "filename": "IMG_0380.JPEG"
+        "filename": "IMG_0380.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0381.JPEG",
-        "filename": "IMG_0381.JPEG"
+        "filename": "IMG_0381.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0382.JPEG",
-        "filename": "IMG_0382.JPEG"
+        "filename": "IMG_0382.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0383.JPEG",
-        "filename": "IMG_0383.JPEG"
+        "filename": "IMG_0383.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0384.JPEG",
-        "filename": "IMG_0384.JPEG"
+        "filename": "IMG_0384.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0385.JPEG",
-        "filename": "IMG_0385.JPEG"
+        "filename": "IMG_0385.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0386.JPEG",
-        "filename": "IMG_0386.JPEG"
+        "filename": "IMG_0386.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0387.JPEG",
-        "filename": "IMG_0387.JPEG"
+        "filename": "IMG_0387.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0388.JPEG",
-        "filename": "IMG_0388.JPEG"
+        "filename": "IMG_0388.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0389.JPEG",
-        "filename": "IMG_0389.JPEG"
+        "filename": "IMG_0389.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0390.JPEG",
-        "filename": "IMG_0390.JPEG"
+        "filename": "IMG_0390.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0391.JPEG",
-        "filename": "IMG_0391.JPEG"
+        "filename": "IMG_0391.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0392.JPEG",
-        "filename": "IMG_0392.JPEG"
+        "filename": "IMG_0392.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0393.JPEG",
-        "filename": "IMG_0393.JPEG"
+        "filename": "IMG_0393.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0394.JPEG",
-        "filename": "IMG_0394.JPEG"
+        "filename": "IMG_0394.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0395.JPEG",
-        "filename": "IMG_0395.JPEG"
+        "filename": "IMG_0395.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0396.JPEG",
-        "filename": "IMG_0396.JPEG"
+        "filename": "IMG_0396.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0397.JPEG",
-        "filename": "IMG_0397.JPEG"
+        "filename": "IMG_0397.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0398.JPEG",
-        "filename": "IMG_0398.JPEG"
+        "filename": "IMG_0398.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0400.JPEG",
-        "filename": "IMG_0400.JPEG"
+        "filename": "IMG_0400.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0401.JPEG",
-        "filename": "IMG_0401.JPEG"
+        "filename": "IMG_0401.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0402.JPEG",
-        "filename": "IMG_0402.JPEG"
+        "filename": "IMG_0402.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0403.JPEG",
-        "filename": "IMG_0403.JPEG"
+        "filename": "IMG_0403.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0404.JPEG",
-        "filename": "IMG_0404.JPEG"
+        "filename": "IMG_0404.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0405.JPEG",
-        "filename": "IMG_0405.JPEG"
+        "filename": "IMG_0405.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0406.JPEG",
-        "filename": "IMG_0406.JPEG"
+        "filename": "IMG_0406.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0407.JPEG",
-        "filename": "IMG_0407.JPEG"
+        "filename": "IMG_0407.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0408.JPEG",
-        "filename": "IMG_0408.JPEG"
+        "filename": "IMG_0408.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0409.JPEG",
-        "filename": "IMG_0409.JPEG"
+        "filename": "IMG_0409.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0410.JPEG",
-        "filename": "IMG_0410.JPEG"
+        "filename": "IMG_0410.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0411.JPEG",
-        "filename": "IMG_0411.JPEG"
+        "filename": "IMG_0411.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0412.JPEG",
-        "filename": "IMG_0412.JPEG"
+        "filename": "IMG_0412.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0413.JPEG",
-        "filename": "IMG_0413.JPEG"
+        "filename": "IMG_0413.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0415.JPEG",
-        "filename": "IMG_0415.JPEG"
+        "filename": "IMG_0415.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0416.JPEG",
-        "filename": "IMG_0416.JPEG"
+        "filename": "IMG_0416.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0417.JPEG",
-        "filename": "IMG_0417.JPEG"
+        "filename": "IMG_0417.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0418.JPEG",
-        "filename": "IMG_0418.JPEG"
+        "filename": "IMG_0418.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0419.JPEG",
-        "filename": "IMG_0419.JPEG"
+        "filename": "IMG_0419.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0421.JPEG",
-        "filename": "IMG_0421.JPEG"
+        "filename": "IMG_0421.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0422.JPEG",
-        "filename": "IMG_0422.JPEG"
+        "filename": "IMG_0422.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0423.JPEG",
-        "filename": "IMG_0423.JPEG"
+        "filename": "IMG_0423.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0424.JPEG",
-        "filename": "IMG_0424.JPEG"
+        "filename": "IMG_0424.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0425.JPEG",
-        "filename": "IMG_0425.JPEG"
+        "filename": "IMG_0425.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0426.JPEG",
-        "filename": "IMG_0426.JPEG"
+        "filename": "IMG_0426.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0427.JPEG",
-        "filename": "IMG_0427.JPEG"
+        "filename": "IMG_0427.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0428.JPEG",
-        "filename": "IMG_0428.JPEG"
+        "filename": "IMG_0428.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0429.JPEG",
-        "filename": "IMG_0429.JPEG"
+        "filename": "IMG_0429.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0430.JPEG",
-        "filename": "IMG_0430.JPEG"
+        "filename": "IMG_0430.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0431.JPEG",
-        "filename": "IMG_0431.JPEG"
+        "filename": "IMG_0431.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0433.JPEG",
-        "filename": "IMG_0433.JPEG"
+        "filename": "IMG_0433.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0434.JPEG",
-        "filename": "IMG_0434.JPEG"
+        "filename": "IMG_0434.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0435.JPEG",
-        "filename": "IMG_0435.JPEG"
+        "filename": "IMG_0435.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0436.JPEG",
-        "filename": "IMG_0436.JPEG"
+        "filename": "IMG_0436.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0437.JPEG",
-        "filename": "IMG_0437.JPEG"
+        "filename": "IMG_0437.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0441.JPEG",
-        "filename": "IMG_0441.JPEG"
+        "filename": "IMG_0441.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0442.JPEG",
-        "filename": "IMG_0442.JPEG"
+        "filename": "IMG_0442.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0443.JPEG",
-        "filename": "IMG_0443.JPEG"
+        "filename": "IMG_0443.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0444.JPEG",
-        "filename": "IMG_0444.JPEG"
+        "filename": "IMG_0444.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0447.JPEG",
-        "filename": "IMG_0447.JPEG"
+        "filename": "IMG_0447.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0448.JPEG",
-        "filename": "IMG_0448.JPEG"
+        "filename": "IMG_0448.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0449.JPEG",
-        "filename": "IMG_0449.JPEG"
+        "filename": "IMG_0449.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0450.JPEG",
-        "filename": "IMG_0450.JPEG"
+        "filename": "IMG_0450.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0451.JPEG",
-        "filename": "IMG_0451.JPEG"
+        "filename": "IMG_0451.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0452.JPEG",
-        "filename": "IMG_0452.JPEG"
+        "filename": "IMG_0452.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0453.JPEG",
-        "filename": "IMG_0453.JPEG"
+        "filename": "IMG_0453.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0454.JPEG",
-        "filename": "IMG_0454.JPEG"
+        "filename": "IMG_0454.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0455.JPEG",
-        "filename": "IMG_0455.JPEG"
+        "filename": "IMG_0455.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0456.JPEG",
-        "filename": "IMG_0456.JPEG"
+        "filename": "IMG_0456.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0458.JPEG",
-        "filename": "IMG_0458.JPEG"
+        "filename": "IMG_0458.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0459.JPEG",
-        "filename": "IMG_0459.JPEG"
+        "filename": "IMG_0459.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0464.JPEG",
-        "filename": "IMG_0464.JPEG"
+        "filename": "IMG_0464.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0471.JPEG",
-        "filename": "IMG_0471.JPEG"
+        "filename": "IMG_0471.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0474.JPEG",
-        "filename": "IMG_0474.JPEG"
+        "filename": "IMG_0474.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0475.JPEG",
-        "filename": "IMG_0475.JPEG"
+        "filename": "IMG_0475.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0476.JPEG",
-        "filename": "IMG_0476.JPEG"
+        "filename": "IMG_0476.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0477.JPEG",
-        "filename": "IMG_0477.JPEG"
+        "filename": "IMG_0477.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0478.JPEG",
-        "filename": "IMG_0478.JPEG"
+        "filename": "IMG_0478.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0479.JPEG",
-        "filename": "IMG_0479.JPEG"
+        "filename": "IMG_0479.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0480.JPEG",
-        "filename": "IMG_0480.JPEG"
+        "filename": "IMG_0480.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0481.JPEG",
-        "filename": "IMG_0481.JPEG"
+        "filename": "IMG_0481.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0482.JPEG",
-        "filename": "IMG_0482.JPEG"
+        "filename": "IMG_0482.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0483.JPEG",
-        "filename": "IMG_0483.JPEG"
+        "filename": "IMG_0483.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0484.JPEG",
-        "filename": "IMG_0484.JPEG"
+        "filename": "IMG_0484.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0485.JPEG",
-        "filename": "IMG_0485.JPEG"
+        "filename": "IMG_0485.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0486.JPEG",
-        "filename": "IMG_0486.JPEG"
+        "filename": "IMG_0486.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0487.JPEG",
-        "filename": "IMG_0487.JPEG"
+        "filename": "IMG_0487.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0488.JPEG",
-        "filename": "IMG_0488.JPEG"
+        "filename": "IMG_0488.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0489.JPEG",
-        "filename": "IMG_0489.JPEG"
+        "filename": "IMG_0489.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0490.JPEG",
-        "filename": "IMG_0490.JPEG"
+        "filename": "IMG_0490.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0491.JPEG",
-        "filename": "IMG_0491.JPEG"
+        "filename": "IMG_0491.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0492.JPEG",
-        "filename": "IMG_0492.JPEG"
+        "filename": "IMG_0492.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0493.JPEG",
-        "filename": "IMG_0493.JPEG"
+        "filename": "IMG_0493.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0494.JPEG",
-        "filename": "IMG_0494.JPEG"
+        "filename": "IMG_0494.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0495.JPEG",
-        "filename": "IMG_0495.JPEG"
+        "filename": "IMG_0495.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0496.JPEG",
-        "filename": "IMG_0496.JPEG"
+        "filename": "IMG_0496.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0499.JPEG",
-        "filename": "IMG_0499.JPEG"
+        "filename": "IMG_0499.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0500.JPEG",
-        "filename": "IMG_0500.JPEG"
+        "filename": "IMG_0500.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0501.JPEG",
-        "filename": "IMG_0501.JPEG"
+        "filename": "IMG_0501.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0502.JPEG",
-        "filename": "IMG_0502.JPEG"
+        "filename": "IMG_0502.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0503.JPEG",
-        "filename": "IMG_0503.JPEG"
+        "filename": "IMG_0503.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0504.JPEG",
-        "filename": "IMG_0504.JPEG"
+        "filename": "IMG_0504.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0505.JPEG",
-        "filename": "IMG_0505.JPEG"
+        "filename": "IMG_0505.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0506.JPEG",
-        "filename": "IMG_0506.JPEG"
+        "filename": "IMG_0506.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0507.JPEG",
-        "filename": "IMG_0507.JPEG"
+        "filename": "IMG_0507.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0508.JPEG",
-        "filename": "IMG_0508.JPEG"
+        "filename": "IMG_0508.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0509.JPEG",
-        "filename": "IMG_0509.JPEG"
+        "filename": "IMG_0509.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0510.JPEG",
-        "filename": "IMG_0510.JPEG"
+        "filename": "IMG_0510.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0511.JPEG",
-        "filename": "IMG_0511.JPEG"
+        "filename": "IMG_0511.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0512.JPEG",
-        "filename": "IMG_0512.JPEG"
+        "filename": "IMG_0512.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0513.JPEG",
-        "filename": "IMG_0513.JPEG"
+        "filename": "IMG_0513.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0518.JPEG",
-        "filename": "IMG_0518.JPEG"
+        "filename": "IMG_0518.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0520.JPEG",
-        "filename": "IMG_0520.JPEG"
+        "filename": "IMG_0520.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0521.JPEG",
-        "filename": "IMG_0521.JPEG"
+        "filename": "IMG_0521.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0522.JPEG",
-        "filename": "IMG_0522.JPEG"
+        "filename": "IMG_0522.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0523.JPEG",
-        "filename": "IMG_0523.JPEG"
+        "filename": "IMG_0523.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0524.JPEG",
-        "filename": "IMG_0524.JPEG"
+        "filename": "IMG_0524.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0525.JPEG",
-        "filename": "IMG_0525.JPEG"
+        "filename": "IMG_0525.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0526.JPEG",
-        "filename": "IMG_0526.JPEG"
+        "filename": "IMG_0526.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0527.JPEG",
-        "filename": "IMG_0527.JPEG"
+        "filename": "IMG_0527.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0528.JPEG",
-        "filename": "IMG_0528.JPEG"
+        "filename": "IMG_0528.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0529.JPEG",
-        "filename": "IMG_0529.JPEG"
+        "filename": "IMG_0529.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0530.JPEG",
-        "filename": "IMG_0530.JPEG"
+        "filename": "IMG_0530.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0531.JPEG",
-        "filename": "IMG_0531.JPEG"
+        "filename": "IMG_0531.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0532.JPEG",
-        "filename": "IMG_0532.JPEG"
+        "filename": "IMG_0532.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0533.JPEG",
-        "filename": "IMG_0533.JPEG"
+        "filename": "IMG_0533.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0534.JPEG",
-        "filename": "IMG_0534.JPEG"
+        "filename": "IMG_0534.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0535.JPEG",
-        "filename": "IMG_0535.JPEG"
+        "filename": "IMG_0535.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0536.JPEG",
-        "filename": "IMG_0536.JPEG"
+        "filename": "IMG_0536.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0537.JPEG",
-        "filename": "IMG_0537.JPEG"
+        "filename": "IMG_0537.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0538.JPEG",
-        "filename": "IMG_0538.JPEG"
+        "filename": "IMG_0538.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0539.JPEG",
-        "filename": "IMG_0539.JPEG"
+        "filename": "IMG_0539.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0540.JPEG",
-        "filename": "IMG_0540.JPEG"
+        "filename": "IMG_0540.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0541.JPEG",
-        "filename": "IMG_0541.JPEG"
+        "filename": "IMG_0541.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0542.JPEG",
-        "filename": "IMG_0542.JPEG"
+        "filename": "IMG_0542.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0543.JPEG",
-        "filename": "IMG_0543.JPEG"
+        "filename": "IMG_0543.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0544.JPEG",
-        "filename": "IMG_0544.JPEG"
+        "filename": "IMG_0544.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0545.JPEG",
-        "filename": "IMG_0545.JPEG"
+        "filename": "IMG_0545.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0546.JPEG",
-        "filename": "IMG_0546.JPEG"
+        "filename": "IMG_0546.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0547.JPEG",
-        "filename": "IMG_0547.JPEG"
+        "filename": "IMG_0547.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0549.JPEG",
-        "filename": "IMG_0549.JPEG"
+        "filename": "IMG_0549.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0550.JPEG",
-        "filename": "IMG_0550.JPEG"
+        "filename": "IMG_0550.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0551.JPEG",
-        "filename": "IMG_0551.JPEG"
+        "filename": "IMG_0551.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0554.JPEG",
-        "filename": "IMG_0554.JPEG"
+        "filename": "IMG_0554.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0555.JPEG",
-        "filename": "IMG_0555.JPEG"
+        "filename": "IMG_0555.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0556.JPEG",
-        "filename": "IMG_0556.JPEG"
+        "filename": "IMG_0556.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0557.JPEG",
-        "filename": "IMG_0557.JPEG"
+        "filename": "IMG_0557.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0558.JPEG",
-        "filename": "IMG_0558.JPEG"
+        "filename": "IMG_0558.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0559.JPEG",
-        "filename": "IMG_0559.JPEG"
+        "filename": "IMG_0559.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0560.JPEG",
-        "filename": "IMG_0560.JPEG"
+        "filename": "IMG_0560.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0561.JPEG",
-        "filename": "IMG_0561.JPEG"
+        "filename": "IMG_0561.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0562.JPEG",
-        "filename": "IMG_0562.JPEG"
+        "filename": "IMG_0562.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0563.JPEG",
-        "filename": "IMG_0563.JPEG"
+        "filename": "IMG_0563.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0564.JPEG",
-        "filename": "IMG_0564.JPEG"
+        "filename": "IMG_0564.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0565.JPEG",
-        "filename": "IMG_0565.JPEG"
+        "filename": "IMG_0565.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0566.JPEG",
-        "filename": "IMG_0566.JPEG"
+        "filename": "IMG_0566.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0567.JPEG",
-        "filename": "IMG_0567.JPEG"
+        "filename": "IMG_0567.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0568.JPEG",
-        "filename": "IMG_0568.JPEG"
+        "filename": "IMG_0568.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0569.JPEG",
-        "filename": "IMG_0569.JPEG"
+        "filename": "IMG_0569.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0570.JPEG",
-        "filename": "IMG_0570.JPEG"
+        "filename": "IMG_0570.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0571.JPEG",
-        "filename": "IMG_0571.JPEG"
+        "filename": "IMG_0571.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0574.JPEG",
-        "filename": "IMG_0574.JPEG"
+        "filename": "IMG_0574.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0575.JPEG",
-        "filename": "IMG_0575.JPEG"
+        "filename": "IMG_0575.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0576.JPEG",
-        "filename": "IMG_0576.JPEG"
+        "filename": "IMG_0576.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0577.JPEG",
-        "filename": "IMG_0577.JPEG"
+        "filename": "IMG_0577.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0578.JPEG",
-        "filename": "IMG_0578.JPEG"
+        "filename": "IMG_0578.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0579.JPEG",
-        "filename": "IMG_0579.JPEG"
+        "filename": "IMG_0579.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0580.JPEG",
-        "filename": "IMG_0580.JPEG"
+        "filename": "IMG_0580.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0581.JPEG",
-        "filename": "IMG_0581.JPEG"
+        "filename": "IMG_0581.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0582.JPEG",
-        "filename": "IMG_0582.JPEG"
+        "filename": "IMG_0582.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0583.JPEG",
-        "filename": "IMG_0583.JPEG"
+        "filename": "IMG_0583.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0584.JPEG",
-        "filename": "IMG_0584.JPEG"
+        "filename": "IMG_0584.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0585.JPEG",
-        "filename": "IMG_0585.JPEG"
+        "filename": "IMG_0585.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0586.JPEG",
-        "filename": "IMG_0586.JPEG"
+        "filename": "IMG_0586.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0587.JPEG",
-        "filename": "IMG_0587.JPEG"
+        "filename": "IMG_0587.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0588.JPEG",
-        "filename": "IMG_0588.JPEG"
+        "filename": "IMG_0588.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0589.JPEG",
-        "filename": "IMG_0589.JPEG"
+        "filename": "IMG_0589.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0590.JPEG",
-        "filename": "IMG_0590.JPEG"
+        "filename": "IMG_0590.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0591.JPEG",
-        "filename": "IMG_0591.JPEG"
+        "filename": "IMG_0591.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0592.JPEG",
-        "filename": "IMG_0592.JPEG"
+        "filename": "IMG_0592.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0593.JPEG",
-        "filename": "IMG_0593.JPEG"
+        "filename": "IMG_0593.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0594.JPEG",
-        "filename": "IMG_0594.JPEG"
+        "filename": "IMG_0594.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0595.JPEG",
-        "filename": "IMG_0595.JPEG"
+        "filename": "IMG_0595.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0596.JPEG",
-        "filename": "IMG_0596.JPEG"
+        "filename": "IMG_0596.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0597.JPEG",
-        "filename": "IMG_0597.JPEG"
+        "filename": "IMG_0597.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0598.JPEG",
-        "filename": "IMG_0598.JPEG"
+        "filename": "IMG_0598.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0599.JPEG",
-        "filename": "IMG_0599.JPEG"
+        "filename": "IMG_0599.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0601.JPEG",
-        "filename": "IMG_0601.JPEG"
+        "filename": "IMG_0601.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0603.JPEG",
-        "filename": "IMG_0603.JPEG"
+        "filename": "IMG_0603.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0604.JPEG",
-        "filename": "IMG_0604.JPEG"
+        "filename": "IMG_0604.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0605.JPEG",
-        "filename": "IMG_0605.JPEG"
+        "filename": "IMG_0605.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0606.JPEG",
-        "filename": "IMG_0606.JPEG"
+        "filename": "IMG_0606.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0607.JPEG",
-        "filename": "IMG_0607.JPEG"
+        "filename": "IMG_0607.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0608.JPEG",
-        "filename": "IMG_0608.JPEG"
+        "filename": "IMG_0608.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0609.JPEG",
-        "filename": "IMG_0609.JPEG"
+        "filename": "IMG_0609.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0610.JPEG",
-        "filename": "IMG_0610.JPEG"
+        "filename": "IMG_0610.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0611.JPEG",
-        "filename": "IMG_0611.JPEG"
+        "filename": "IMG_0611.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0612.JPEG",
-        "filename": "IMG_0612.JPEG"
+        "filename": "IMG_0612.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0613.JPEG",
-        "filename": "IMG_0613.JPEG"
+        "filename": "IMG_0613.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0615.JPEG",
-        "filename": "IMG_0615.JPEG"
+        "filename": "IMG_0615.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0616.JPEG",
-        "filename": "IMG_0616.JPEG"
+        "filename": "IMG_0616.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0618.JPEG",
-        "filename": "IMG_0618.JPEG"
+        "filename": "IMG_0618.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0621.JPEG",
-        "filename": "IMG_0621.JPEG"
+        "filename": "IMG_0621.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0622.JPEG",
-        "filename": "IMG_0622.JPEG"
+        "filename": "IMG_0622.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0624.JPEG",
-        "filename": "IMG_0624.JPEG"
+        "filename": "IMG_0624.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0628.JPEG",
-        "filename": "IMG_0628.JPEG"
+        "filename": "IMG_0628.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0629.JPEG",
-        "filename": "IMG_0629.JPEG"
+        "filename": "IMG_0629.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0631.JPEG",
-        "filename": "IMG_0631.JPEG"
+        "filename": "IMG_0631.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0633.JPEG",
-        "filename": "IMG_0633.JPEG"
+        "filename": "IMG_0633.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0634.JPEG",
-        "filename": "IMG_0634.JPEG"
+        "filename": "IMG_0634.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0635.JPEG",
-        "filename": "IMG_0635.JPEG"
+        "filename": "IMG_0635.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0636.JPEG",
-        "filename": "IMG_0636.JPEG"
+        "filename": "IMG_0636.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0637.JPEG",
-        "filename": "IMG_0637.JPEG"
+        "filename": "IMG_0637.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0638.JPEG",
-        "filename": "IMG_0638.JPEG"
+        "filename": "IMG_0638.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0639.JPEG",
-        "filename": "IMG_0639.JPEG"
+        "filename": "IMG_0639.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0640.JPEG",
-        "filename": "IMG_0640.JPEG"
+        "filename": "IMG_0640.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0641.JPEG",
-        "filename": "IMG_0641.JPEG"
+        "filename": "IMG_0641.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0642.JPEG",
-        "filename": "IMG_0642.JPEG"
+        "filename": "IMG_0642.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0643.JPEG",
-        "filename": "IMG_0643.JPEG"
+        "filename": "IMG_0643.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0644.JPEG",
-        "filename": "IMG_0644.JPEG"
+        "filename": "IMG_0644.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0645.JPEG",
-        "filename": "IMG_0645.JPEG"
+        "filename": "IMG_0645.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0646.JPEG",
-        "filename": "IMG_0646.JPEG"
+        "filename": "IMG_0646.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0647.JPEG",
-        "filename": "IMG_0647.JPEG"
+        "filename": "IMG_0647.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0648.JPEG",
-        "filename": "IMG_0648.JPEG"
+        "filename": "IMG_0648.JPEG",
+        "type": "image"
+      },
+      {
+        "path": "/photos/Matthew/IMG_0649.MP4",
+        "filename": "IMG_0649.MP4",
+        "type": "video",
+        "thumbnail": "/assets/gallery-thumbnails/IMG_0649-173b08f81eb3.jpg"
       },
       {
         "path": "/photos/Matthew/IMG_0650.JPEG",
-        "filename": "IMG_0650.JPEG"
+        "filename": "IMG_0650.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0651.JPEG",
-        "filename": "IMG_0651.JPEG"
+        "filename": "IMG_0651.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0652.JPEG",
-        "filename": "IMG_0652.JPEG"
+        "filename": "IMG_0652.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0655.JPEG",
-        "filename": "IMG_0655.JPEG"
+        "filename": "IMG_0655.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0658.JPEG",
-        "filename": "IMG_0658.JPEG"
+        "filename": "IMG_0658.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0659.JPEG",
-        "filename": "IMG_0659.JPEG"
+        "filename": "IMG_0659.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0660.JPEG",
-        "filename": "IMG_0660.JPEG"
+        "filename": "IMG_0660.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0661.JPEG",
-        "filename": "IMG_0661.JPEG"
+        "filename": "IMG_0661.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0662.JPEG",
-        "filename": "IMG_0662.JPEG"
+        "filename": "IMG_0662.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0663.JPEG",
-        "filename": "IMG_0663.JPEG"
+        "filename": "IMG_0663.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0664.JPEG",
-        "filename": "IMG_0664.JPEG"
+        "filename": "IMG_0664.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0665.JPEG",
-        "filename": "IMG_0665.JPEG"
+        "filename": "IMG_0665.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0666.JPEG",
-        "filename": "IMG_0666.JPEG"
+        "filename": "IMG_0666.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0667.JPEG",
-        "filename": "IMG_0667.JPEG"
+        "filename": "IMG_0667.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0668.JPEG",
-        "filename": "IMG_0668.JPEG"
+        "filename": "IMG_0668.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0669.JPEG",
-        "filename": "IMG_0669.JPEG"
+        "filename": "IMG_0669.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0670.JPEG",
-        "filename": "IMG_0670.JPEG"
+        "filename": "IMG_0670.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0671.JPEG",
-        "filename": "IMG_0671.JPEG"
+        "filename": "IMG_0671.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0673.JPEG",
-        "filename": "IMG_0673.JPEG"
+        "filename": "IMG_0673.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0674.JPEG",
-        "filename": "IMG_0674.JPEG"
+        "filename": "IMG_0674.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0675.JPEG",
-        "filename": "IMG_0675.JPEG"
+        "filename": "IMG_0675.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0676.JPEG",
-        "filename": "IMG_0676.JPEG"
+        "filename": "IMG_0676.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0677.JPEG",
-        "filename": "IMG_0677.JPEG"
+        "filename": "IMG_0677.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0678.JPEG",
-        "filename": "IMG_0678.JPEG"
+        "filename": "IMG_0678.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0679.JPEG",
-        "filename": "IMG_0679.JPEG"
+        "filename": "IMG_0679.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0683.JPEG",
-        "filename": "IMG_0683.JPEG"
+        "filename": "IMG_0683.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0685.JPEG",
-        "filename": "IMG_0685.JPEG"
+        "filename": "IMG_0685.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0686.JPEG",
-        "filename": "IMG_0686.JPEG"
+        "filename": "IMG_0686.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0687.JPEG",
-        "filename": "IMG_0687.JPEG"
+        "filename": "IMG_0687.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0688.JPEG",
-        "filename": "IMG_0688.JPEG"
+        "filename": "IMG_0688.JPEG",
+        "type": "image"
+      },
+      {
+        "path": "/photos/Matthew/IMG_0689.MP4",
+        "filename": "IMG_0689.MP4",
+        "type": "video",
+        "thumbnail": "/assets/gallery-thumbnails/IMG_0689-1ec5b7d17a25.jpg"
       },
       {
         "path": "/photos/Matthew/IMG_0690.JPEG",
-        "filename": "IMG_0690.JPEG"
+        "filename": "IMG_0690.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0691.JPEG",
-        "filename": "IMG_0691.JPEG"
+        "filename": "IMG_0691.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0692.JPEG",
-        "filename": "IMG_0692.JPEG"
+        "filename": "IMG_0692.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0693.JPEG",
-        "filename": "IMG_0693.JPEG"
+        "filename": "IMG_0693.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0694.JPEG",
-        "filename": "IMG_0694.JPEG"
+        "filename": "IMG_0694.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0695.JPEG",
-        "filename": "IMG_0695.JPEG"
+        "filename": "IMG_0695.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0696.JPEG",
-        "filename": "IMG_0696.JPEG"
+        "filename": "IMG_0696.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0697.JPEG",
-        "filename": "IMG_0697.JPEG"
+        "filename": "IMG_0697.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0698.JPEG",
-        "filename": "IMG_0698.JPEG"
+        "filename": "IMG_0698.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0700.JPEG",
-        "filename": "IMG_0700.JPEG"
+        "filename": "IMG_0700.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0701.JPEG",
-        "filename": "IMG_0701.JPEG"
+        "filename": "IMG_0701.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0702.JPEG",
-        "filename": "IMG_0702.JPEG"
+        "filename": "IMG_0702.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0703.JPEG",
-        "filename": "IMG_0703.JPEG"
+        "filename": "IMG_0703.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0704.JPEG",
-        "filename": "IMG_0704.JPEG"
+        "filename": "IMG_0704.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0705.JPEG",
-        "filename": "IMG_0705.JPEG"
+        "filename": "IMG_0705.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0706.JPEG",
-        "filename": "IMG_0706.JPEG"
+        "filename": "IMG_0706.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0707.JPEG",
-        "filename": "IMG_0707.JPEG"
+        "filename": "IMG_0707.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0708.JPEG",
-        "filename": "IMG_0708.JPEG"
+        "filename": "IMG_0708.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0709.JPEG",
-        "filename": "IMG_0709.JPEG"
+        "filename": "IMG_0709.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0710.JPEG",
-        "filename": "IMG_0710.JPEG"
+        "filename": "IMG_0710.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0711.JPEG",
-        "filename": "IMG_0711.JPEG"
+        "filename": "IMG_0711.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0712.JPEG",
-        "filename": "IMG_0712.JPEG"
+        "filename": "IMG_0712.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0713.JPEG",
-        "filename": "IMG_0713.JPEG"
+        "filename": "IMG_0713.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0714.JPEG",
-        "filename": "IMG_0714.JPEG"
+        "filename": "IMG_0714.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0715.JPEG",
-        "filename": "IMG_0715.JPEG"
+        "filename": "IMG_0715.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0716.JPEG",
-        "filename": "IMG_0716.JPEG"
+        "filename": "IMG_0716.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0717.JPEG",
-        "filename": "IMG_0717.JPEG"
+        "filename": "IMG_0717.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0718.JPEG",
-        "filename": "IMG_0718.JPEG"
+        "filename": "IMG_0718.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0719.JPEG",
-        "filename": "IMG_0719.JPEG"
+        "filename": "IMG_0719.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0720.JPEG",
-        "filename": "IMG_0720.JPEG"
+        "filename": "IMG_0720.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0721.JPEG",
-        "filename": "IMG_0721.JPEG"
+        "filename": "IMG_0721.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0722.JPEG",
-        "filename": "IMG_0722.JPEG"
+        "filename": "IMG_0722.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0723.JPEG",
-        "filename": "IMG_0723.JPEG"
+        "filename": "IMG_0723.JPEG",
+        "type": "image"
+      },
+      {
+        "path": "/photos/Matthew/IMG_0724.MP4",
+        "filename": "IMG_0724.MP4",
+        "type": "video",
+        "thumbnail": "/assets/gallery-thumbnails/IMG_0724-4258717d8abf.jpg"
       },
       {
         "path": "/photos/Matthew/IMG_0725.JPEG",
-        "filename": "IMG_0725.JPEG"
+        "filename": "IMG_0725.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0728.JPEG",
-        "filename": "IMG_0728.JPEG"
+        "filename": "IMG_0728.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0729.JPEG",
-        "filename": "IMG_0729.JPEG"
+        "filename": "IMG_0729.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0730.JPEG",
-        "filename": "IMG_0730.JPEG"
+        "filename": "IMG_0730.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0732.JPEG",
-        "filename": "IMG_0732.JPEG"
+        "filename": "IMG_0732.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0734.JPEG",
-        "filename": "IMG_0734.JPEG"
+        "filename": "IMG_0734.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0735.JPEG",
-        "filename": "IMG_0735.JPEG"
+        "filename": "IMG_0735.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0736.JPEG",
-        "filename": "IMG_0736.JPEG"
+        "filename": "IMG_0736.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0737.JPEG",
-        "filename": "IMG_0737.JPEG"
+        "filename": "IMG_0737.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0738.JPEG",
-        "filename": "IMG_0738.JPEG"
+        "filename": "IMG_0738.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0739.JPEG",
-        "filename": "IMG_0739.JPEG"
+        "filename": "IMG_0739.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0740.JPEG",
-        "filename": "IMG_0740.JPEG"
+        "filename": "IMG_0740.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0741.JPEG",
-        "filename": "IMG_0741.JPEG"
+        "filename": "IMG_0741.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0742.JPEG",
-        "filename": "IMG_0742.JPEG"
+        "filename": "IMG_0742.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0743.JPEG",
-        "filename": "IMG_0743.JPEG"
+        "filename": "IMG_0743.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0744.JPEG",
-        "filename": "IMG_0744.JPEG"
+        "filename": "IMG_0744.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0745.JPEG",
-        "filename": "IMG_0745.JPEG"
+        "filename": "IMG_0745.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0747.JPEG",
-        "filename": "IMG_0747.JPEG"
+        "filename": "IMG_0747.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0748.JPEG",
-        "filename": "IMG_0748.JPEG"
+        "filename": "IMG_0748.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0749.JPEG",
-        "filename": "IMG_0749.JPEG"
+        "filename": "IMG_0749.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0750.JPEG",
-        "filename": "IMG_0750.JPEG"
+        "filename": "IMG_0750.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0751.JPEG",
-        "filename": "IMG_0751.JPEG"
+        "filename": "IMG_0751.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0752.JPEG",
-        "filename": "IMG_0752.JPEG"
+        "filename": "IMG_0752.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0753.JPEG",
-        "filename": "IMG_0753.JPEG"
+        "filename": "IMG_0753.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0754.JPEG",
-        "filename": "IMG_0754.JPEG"
+        "filename": "IMG_0754.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0755.JPEG",
-        "filename": "IMG_0755.JPEG"
+        "filename": "IMG_0755.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0756.JPEG",
-        "filename": "IMG_0756.JPEG"
+        "filename": "IMG_0756.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0757.JPEG",
-        "filename": "IMG_0757.JPEG"
+        "filename": "IMG_0757.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0758.JPEG",
-        "filename": "IMG_0758.JPEG"
+        "filename": "IMG_0758.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0759.JPEG",
-        "filename": "IMG_0759.JPEG"
+        "filename": "IMG_0759.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0760.JPEG",
-        "filename": "IMG_0760.JPEG"
+        "filename": "IMG_0760.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0761.JPEG",
-        "filename": "IMG_0761.JPEG"
+        "filename": "IMG_0761.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0762.JPEG",
-        "filename": "IMG_0762.JPEG"
+        "filename": "IMG_0762.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0763.JPEG",
-        "filename": "IMG_0763.JPEG"
+        "filename": "IMG_0763.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0764.JPEG",
-        "filename": "IMG_0764.JPEG"
+        "filename": "IMG_0764.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0765.JPEG",
-        "filename": "IMG_0765.JPEG"
+        "filename": "IMG_0765.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0766.JPEG",
-        "filename": "IMG_0766.JPEG"
+        "filename": "IMG_0766.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0768.JPEG",
-        "filename": "IMG_0768.JPEG"
+        "filename": "IMG_0768.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0770.JPEG",
-        "filename": "IMG_0770.JPEG"
+        "filename": "IMG_0770.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0771.JPEG",
-        "filename": "IMG_0771.JPEG"
+        "filename": "IMG_0771.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0772.JPEG",
-        "filename": "IMG_0772.JPEG"
+        "filename": "IMG_0772.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0773.JPEG",
-        "filename": "IMG_0773.JPEG"
+        "filename": "IMG_0773.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0780.JPEG",
-        "filename": "IMG_0780.JPEG"
+        "filename": "IMG_0780.JPEG",
+        "type": "image"
+      },
+      {
+        "path": "/photos/Matthew/IMG_0781.MP4",
+        "filename": "IMG_0781.MP4",
+        "type": "video",
+        "thumbnail": "/assets/gallery-thumbnails/IMG_0781-67e3638bcd1f.jpg"
+      },
+      {
+        "path": "/photos/Matthew/IMG_0782.MP4",
+        "filename": "IMG_0782.MP4",
+        "type": "video",
+        "thumbnail": "/assets/gallery-thumbnails/IMG_0782-d5a221f3ed0c.jpg"
       },
       {
         "path": "/photos/Matthew/IMG_0783.JPEG",
-        "filename": "IMG_0783.JPEG"
+        "filename": "IMG_0783.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0784.JPEG",
-        "filename": "IMG_0784.JPEG"
+        "filename": "IMG_0784.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0785.JPEG",
-        "filename": "IMG_0785.JPEG"
+        "filename": "IMG_0785.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0786.JPEG",
-        "filename": "IMG_0786.JPEG"
+        "filename": "IMG_0786.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0787.JPEG",
-        "filename": "IMG_0787.JPEG"
+        "filename": "IMG_0787.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0788.JPEG",
-        "filename": "IMG_0788.JPEG"
+        "filename": "IMG_0788.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0791.JPEG",
-        "filename": "IMG_0791.JPEG"
+        "filename": "IMG_0791.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0792.JPEG",
-        "filename": "IMG_0792.JPEG"
+        "filename": "IMG_0792.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0793.JPEG",
-        "filename": "IMG_0793.JPEG"
+        "filename": "IMG_0793.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0795.JPEG",
-        "filename": "IMG_0795.JPEG"
+        "filename": "IMG_0795.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0796.JPEG",
-        "filename": "IMG_0796.JPEG"
+        "filename": "IMG_0796.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0797.JPEG",
-        "filename": "IMG_0797.JPEG"
+        "filename": "IMG_0797.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0798.JPEG",
-        "filename": "IMG_0798.JPEG"
+        "filename": "IMG_0798.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0799.JPEG",
-        "filename": "IMG_0799.JPEG"
+        "filename": "IMG_0799.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0800.JPEG",
-        "filename": "IMG_0800.JPEG"
+        "filename": "IMG_0800.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0801.JPEG",
-        "filename": "IMG_0801.JPEG"
+        "filename": "IMG_0801.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0802.JPEG",
-        "filename": "IMG_0802.JPEG"
+        "filename": "IMG_0802.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0803.JPEG",
-        "filename": "IMG_0803.JPEG"
+        "filename": "IMG_0803.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0805.JPEG",
-        "filename": "IMG_0805.JPEG"
+        "filename": "IMG_0805.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0806.JPEG",
-        "filename": "IMG_0806.JPEG"
+        "filename": "IMG_0806.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0807.JPEG",
-        "filename": "IMG_0807.JPEG"
+        "filename": "IMG_0807.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0808.JPEG",
-        "filename": "IMG_0808.JPEG"
+        "filename": "IMG_0808.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0809.JPEG",
-        "filename": "IMG_0809.JPEG"
+        "filename": "IMG_0809.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0811.JPEG",
-        "filename": "IMG_0811.JPEG"
+        "filename": "IMG_0811.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0812.JPEG",
-        "filename": "IMG_0812.JPEG"
+        "filename": "IMG_0812.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0813.JPEG",
-        "filename": "IMG_0813.JPEG"
+        "filename": "IMG_0813.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0814.JPEG",
-        "filename": "IMG_0814.JPEG"
+        "filename": "IMG_0814.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0815.JPEG",
-        "filename": "IMG_0815.JPEG"
+        "filename": "IMG_0815.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0816.JPEG",
-        "filename": "IMG_0816.JPEG"
+        "filename": "IMG_0816.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0817.JPEG",
-        "filename": "IMG_0817.JPEG"
+        "filename": "IMG_0817.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0818.JPEG",
-        "filename": "IMG_0818.JPEG"
+        "filename": "IMG_0818.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0819.JPEG",
-        "filename": "IMG_0819.JPEG"
+        "filename": "IMG_0819.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0820.JPEG",
-        "filename": "IMG_0820.JPEG"
+        "filename": "IMG_0820.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0821.JPEG",
-        "filename": "IMG_0821.JPEG"
+        "filename": "IMG_0821.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0822.JPEG",
-        "filename": "IMG_0822.JPEG"
+        "filename": "IMG_0822.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0823.JPEG",
-        "filename": "IMG_0823.JPEG"
+        "filename": "IMG_0823.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0824.JPEG",
-        "filename": "IMG_0824.JPEG"
+        "filename": "IMG_0824.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0825.JPEG",
-        "filename": "IMG_0825.JPEG"
+        "filename": "IMG_0825.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0826.JPEG",
-        "filename": "IMG_0826.JPEG"
+        "filename": "IMG_0826.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0827.JPEG",
-        "filename": "IMG_0827.JPEG"
+        "filename": "IMG_0827.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0828.JPEG",
-        "filename": "IMG_0828.JPEG"
+        "filename": "IMG_0828.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0829.JPEG",
-        "filename": "IMG_0829.JPEG"
+        "filename": "IMG_0829.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0830.JPEG",
-        "filename": "IMG_0830.JPEG"
+        "filename": "IMG_0830.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0831.JPEG",
-        "filename": "IMG_0831.JPEG"
+        "filename": "IMG_0831.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0832.JPEG",
-        "filename": "IMG_0832.JPEG"
+        "filename": "IMG_0832.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0833.JPEG",
-        "filename": "IMG_0833.JPEG"
+        "filename": "IMG_0833.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0834.JPEG",
-        "filename": "IMG_0834.JPEG"
+        "filename": "IMG_0834.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0835.JPEG",
-        "filename": "IMG_0835.JPEG"
+        "filename": "IMG_0835.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0836.JPEG",
-        "filename": "IMG_0836.JPEG"
+        "filename": "IMG_0836.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0838.JPEG",
-        "filename": "IMG_0838.JPEG"
+        "filename": "IMG_0838.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0839.JPEG",
-        "filename": "IMG_0839.JPEG"
+        "filename": "IMG_0839.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0840.JPEG",
-        "filename": "IMG_0840.JPEG"
+        "filename": "IMG_0840.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0841.JPEG",
-        "filename": "IMG_0841.JPEG"
+        "filename": "IMG_0841.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0842.JPEG",
-        "filename": "IMG_0842.JPEG"
+        "filename": "IMG_0842.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0843.JPEG",
-        "filename": "IMG_0843.JPEG"
+        "filename": "IMG_0843.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0844.JPEG",
-        "filename": "IMG_0844.JPEG"
+        "filename": "IMG_0844.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0845.JPEG",
-        "filename": "IMG_0845.JPEG"
+        "filename": "IMG_0845.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0846.JPEG",
-        "filename": "IMG_0846.JPEG"
+        "filename": "IMG_0846.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0847.JPEG",
-        "filename": "IMG_0847.JPEG"
+        "filename": "IMG_0847.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0848.JPEG",
-        "filename": "IMG_0848.JPEG"
+        "filename": "IMG_0848.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0849.JPEG",
-        "filename": "IMG_0849.JPEG"
+        "filename": "IMG_0849.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0850.JPEG",
-        "filename": "IMG_0850.JPEG"
+        "filename": "IMG_0850.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0851.JPEG",
-        "filename": "IMG_0851.JPEG"
+        "filename": "IMG_0851.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0852.JPEG",
-        "filename": "IMG_0852.JPEG"
+        "filename": "IMG_0852.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0853.JPEG",
-        "filename": "IMG_0853.JPEG"
+        "filename": "IMG_0853.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0854.JPEG",
-        "filename": "IMG_0854.JPEG"
+        "filename": "IMG_0854.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0855.JPEG",
-        "filename": "IMG_0855.JPEG"
+        "filename": "IMG_0855.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0857.JPEG",
-        "filename": "IMG_0857.JPEG"
+        "filename": "IMG_0857.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0858.JPEG",
-        "filename": "IMG_0858.JPEG"
+        "filename": "IMG_0858.JPEG",
+        "type": "image"
+      },
+      {
+        "path": "/photos/Matthew/IMG_0859.MP4",
+        "filename": "IMG_0859.MP4",
+        "type": "video",
+        "thumbnail": "/assets/gallery-thumbnails/IMG_0859-f23fc64999d1.jpg"
       },
       {
         "path": "/photos/Matthew/IMG_0860.JPEG",
-        "filename": "IMG_0860.JPEG"
+        "filename": "IMG_0860.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0861.JPEG",
-        "filename": "IMG_0861.JPEG"
+        "filename": "IMG_0861.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0862.JPEG",
-        "filename": "IMG_0862.JPEG"
+        "filename": "IMG_0862.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0863.JPEG",
-        "filename": "IMG_0863.JPEG"
+        "filename": "IMG_0863.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0864.JPEG",
-        "filename": "IMG_0864.JPEG"
+        "filename": "IMG_0864.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0865.JPEG",
-        "filename": "IMG_0865.JPEG"
+        "filename": "IMG_0865.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0866.JPEG",
-        "filename": "IMG_0866.JPEG"
+        "filename": "IMG_0866.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0867.JPEG",
-        "filename": "IMG_0867.JPEG"
+        "filename": "IMG_0867.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0868.JPEG",
-        "filename": "IMG_0868.JPEG"
+        "filename": "IMG_0868.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0869.JPEG",
-        "filename": "IMG_0869.JPEG"
+        "filename": "IMG_0869.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0870.JPEG",
-        "filename": "IMG_0870.JPEG"
+        "filename": "IMG_0870.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0871.JPEG",
-        "filename": "IMG_0871.JPEG"
+        "filename": "IMG_0871.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0872.JPEG",
-        "filename": "IMG_0872.JPEG"
+        "filename": "IMG_0872.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0873.JPEG",
-        "filename": "IMG_0873.JPEG"
+        "filename": "IMG_0873.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0874.JPEG",
-        "filename": "IMG_0874.JPEG"
+        "filename": "IMG_0874.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0875.JPEG",
-        "filename": "IMG_0875.JPEG"
+        "filename": "IMG_0875.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0876.JPEG",
-        "filename": "IMG_0876.JPEG"
+        "filename": "IMG_0876.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0877.JPEG",
-        "filename": "IMG_0877.JPEG"
+        "filename": "IMG_0877.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0878.JPEG",
-        "filename": "IMG_0878.JPEG"
+        "filename": "IMG_0878.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0879.JPEG",
-        "filename": "IMG_0879.JPEG"
+        "filename": "IMG_0879.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0880.JPEG",
-        "filename": "IMG_0880.JPEG"
+        "filename": "IMG_0880.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0881.JPEG",
-        "filename": "IMG_0881.JPEG"
+        "filename": "IMG_0881.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0882.JPEG",
-        "filename": "IMG_0882.JPEG"
+        "filename": "IMG_0882.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0883.JPEG",
-        "filename": "IMG_0883.JPEG"
+        "filename": "IMG_0883.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0884.JPEG",
-        "filename": "IMG_0884.JPEG"
+        "filename": "IMG_0884.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0885.JPEG",
-        "filename": "IMG_0885.JPEG"
+        "filename": "IMG_0885.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0886.JPEG",
-        "filename": "IMG_0886.JPEG"
+        "filename": "IMG_0886.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0887.JPEG",
-        "filename": "IMG_0887.JPEG"
+        "filename": "IMG_0887.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0888.JPEG",
-        "filename": "IMG_0888.JPEG"
+        "filename": "IMG_0888.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0889.JPEG",
-        "filename": "IMG_0889.JPEG"
+        "filename": "IMG_0889.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0890.jpg",
-        "filename": "IMG_0890.jpg"
+        "filename": "IMG_0890.jpg",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0892.JPEG",
-        "filename": "IMG_0892.JPEG"
+        "filename": "IMG_0892.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0893.JPEG",
-        "filename": "IMG_0893.JPEG"
+        "filename": "IMG_0893.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0894.JPEG",
-        "filename": "IMG_0894.JPEG"
+        "filename": "IMG_0894.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0895.JPEG",
-        "filename": "IMG_0895.JPEG"
+        "filename": "IMG_0895.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0896.JPEG",
-        "filename": "IMG_0896.JPEG"
+        "filename": "IMG_0896.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0897.JPEG",
-        "filename": "IMG_0897.JPEG"
+        "filename": "IMG_0897.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0899.JPEG",
-        "filename": "IMG_0899.JPEG"
+        "filename": "IMG_0899.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0900.JPEG",
-        "filename": "IMG_0900.JPEG"
+        "filename": "IMG_0900.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0901.JPEG",
-        "filename": "IMG_0901.JPEG"
+        "filename": "IMG_0901.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0902.JPEG",
-        "filename": "IMG_0902.JPEG"
+        "filename": "IMG_0902.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0903.JPEG",
-        "filename": "IMG_0903.JPEG"
+        "filename": "IMG_0903.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0904.JPEG",
-        "filename": "IMG_0904.JPEG"
+        "filename": "IMG_0904.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0905.JPEG",
-        "filename": "IMG_0905.JPEG"
+        "filename": "IMG_0905.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0906.JPEG",
-        "filename": "IMG_0906.JPEG"
+        "filename": "IMG_0906.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0907.JPEG",
-        "filename": "IMG_0907.JPEG"
+        "filename": "IMG_0907.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0908.JPEG",
-        "filename": "IMG_0908.JPEG"
+        "filename": "IMG_0908.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0909.JPEG",
-        "filename": "IMG_0909.JPEG"
+        "filename": "IMG_0909.JPEG",
+        "type": "image"
+      },
+      {
+        "path": "/photos/Matthew/IMG_0911.MP4",
+        "filename": "IMG_0911.MP4",
+        "type": "video",
+        "thumbnail": "/assets/gallery-thumbnails/IMG_0911-b22bfcd17ade.jpg"
       },
       {
         "path": "/photos/Matthew/IMG_0912.JPEG",
-        "filename": "IMG_0912.JPEG"
+        "filename": "IMG_0912.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0913.JPEG",
-        "filename": "IMG_0913.JPEG"
+        "filename": "IMG_0913.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0914.JPEG",
-        "filename": "IMG_0914.JPEG"
+        "filename": "IMG_0914.JPEG",
+        "type": "image"
+      },
+      {
+        "path": "/photos/Matthew/IMG_0915.MP4",
+        "filename": "IMG_0915.MP4",
+        "type": "video",
+        "thumbnail": "/assets/gallery-thumbnails/IMG_0915-91276c6f0066.jpg"
       },
       {
         "path": "/photos/Matthew/IMG_0916.JPEG",
-        "filename": "IMG_0916.JPEG"
+        "filename": "IMG_0916.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0917.JPEG",
-        "filename": "IMG_0917.JPEG"
+        "filename": "IMG_0917.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0918.JPEG",
-        "filename": "IMG_0918.JPEG"
+        "filename": "IMG_0918.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0919.JPEG",
-        "filename": "IMG_0919.JPEG"
+        "filename": "IMG_0919.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0920.JPEG",
-        "filename": "IMG_0920.JPEG"
+        "filename": "IMG_0920.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0926.JPEG",
-        "filename": "IMG_0926.JPEG"
+        "filename": "IMG_0926.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0927.JPEG",
-        "filename": "IMG_0927.JPEG"
+        "filename": "IMG_0927.JPEG",
+        "type": "image"
+      },
+      {
+        "path": "/photos/Matthew/IMG_0928.MP4",
+        "filename": "IMG_0928.MP4",
+        "type": "video",
+        "thumbnail": "/assets/gallery-thumbnails/IMG_0928-d908f76d835e.jpg"
+      },
+      {
+        "path": "/photos/Matthew/IMG_0929.MP4",
+        "filename": "IMG_0929.MP4",
+        "type": "video",
+        "thumbnail": "/assets/gallery-thumbnails/IMG_0929-c37d8a71ff82.jpg"
+      },
+      {
+        "path": "/photos/Matthew/IMG_0930.MP4",
+        "filename": "IMG_0930.MP4",
+        "type": "video",
+        "thumbnail": "/assets/gallery-thumbnails/IMG_0930-2fe4bea97c66.jpg"
+      },
+      {
+        "path": "/photos/Matthew/IMG_0931.MP4",
+        "filename": "IMG_0931.MP4",
+        "type": "video",
+        "thumbnail": "/assets/gallery-thumbnails/IMG_0931-9e07adcd7372.jpg"
       },
       {
         "path": "/photos/Matthew/IMG_0936.JPEG",
-        "filename": "IMG_0936.JPEG"
+        "filename": "IMG_0936.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0937.JPEG",
-        "filename": "IMG_0937.JPEG"
+        "filename": "IMG_0937.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0938.JPEG",
-        "filename": "IMG_0938.JPEG"
+        "filename": "IMG_0938.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0939.JPEG",
-        "filename": "IMG_0939.JPEG"
+        "filename": "IMG_0939.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0940.JPEG",
-        "filename": "IMG_0940.JPEG"
+        "filename": "IMG_0940.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0941.JPEG",
-        "filename": "IMG_0941.JPEG"
+        "filename": "IMG_0941.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0942.JPEG",
-        "filename": "IMG_0942.JPEG"
+        "filename": "IMG_0942.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0943.JPEG",
-        "filename": "IMG_0943.JPEG"
+        "filename": "IMG_0943.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0944.JPEG",
-        "filename": "IMG_0944.JPEG"
+        "filename": "IMG_0944.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0945.JPEG",
-        "filename": "IMG_0945.JPEG"
+        "filename": "IMG_0945.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0947.JPEG",
-        "filename": "IMG_0947.JPEG"
+        "filename": "IMG_0947.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0948.JPEG",
-        "filename": "IMG_0948.JPEG"
+        "filename": "IMG_0948.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0949.JPEG",
-        "filename": "IMG_0949.JPEG"
+        "filename": "IMG_0949.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0950.JPEG",
-        "filename": "IMG_0950.JPEG"
+        "filename": "IMG_0950.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0951.JPEG",
-        "filename": "IMG_0951.JPEG"
+        "filename": "IMG_0951.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0952.JPEG",
-        "filename": "IMG_0952.JPEG"
+        "filename": "IMG_0952.JPEG",
+        "type": "image"
+      },
+      {
+        "path": "/photos/Matthew/IMG_0954.MP4",
+        "filename": "IMG_0954.MP4",
+        "type": "video",
+        "thumbnail": "/assets/gallery-thumbnails/IMG_0954-76a517242438.jpg"
       },
       {
         "path": "/photos/Matthew/IMG_0956.JPEG",
-        "filename": "IMG_0956.JPEG"
+        "filename": "IMG_0956.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0957.JPEG",
-        "filename": "IMG_0957.JPEG"
+        "filename": "IMG_0957.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0958.JPEG",
-        "filename": "IMG_0958.JPEG"
+        "filename": "IMG_0958.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0959.JPEG",
-        "filename": "IMG_0959.JPEG"
+        "filename": "IMG_0959.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0960.JPEG",
-        "filename": "IMG_0960.JPEG"
+        "filename": "IMG_0960.JPEG",
+        "type": "image"
       },
       {
         "path": "/photos/Matthew/IMG_0961.JPEG",
-        "filename": "IMG_0961.JPEG"
+        "filename": "IMG_0961.JPEG",
+        "type": "image"
       }
     ]
   }
