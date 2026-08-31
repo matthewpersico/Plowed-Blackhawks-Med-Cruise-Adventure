@@ -1,0 +1,202 @@
+/*
+ * Photo gallery
+ */
+
+.person-gallery {
+    margin-top: 2.5rem;
+}
+
+.person-gallery h2 {
+    margin-bottom: 1rem;
+}
+
+
+/*
+ * Thumbnail grid
+ */
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 12px;
+}
+
+.gallery-item {
+    display: block;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+
+    border: 1px solid #ddd;
+    border-radius: 6px;
+
+    background: #eee;
+
+    cursor: zoom-in;
+}
+
+.gallery-item img {
+    display: block;
+
+    width: 100%;
+    height: 100%;
+
+    object-fit: cover;
+
+    transition: transform 0.15s ease-in-out;
+}
+
+.gallery-item:hover img {
+    transform: scale(1.04);
+}
+
+
+/*
+ * Lightbox
+ */
+
+.lightbox {
+    display: none;
+
+    position: fixed;
+    z-index: 10000;
+
+    inset: 0;
+
+    width: 100vw;
+    height: 100vh;
+
+    background: rgba(0, 0, 0, 0.92);
+
+    align-items: center;
+    justify-content: center;
+}
+
+.lightbox.open {
+    display: flex;
+}
+
+.lightbox-content {
+    max-width: calc(100vw - 140px);
+    max-height: calc(100vh - 60px);
+
+    text-align: center;
+}
+
+#lightbox-image {
+    display: block;
+
+    max-width: 100%;
+    max-height: calc(100vh - 100px);
+
+    margin: auto;
+
+    object-fit: contain;
+}
+
+#lightbox-caption {
+    margin-top: 8px;
+
+    color: white;
+    font-size: 14px;
+}
+
+
+/*
+ * Close button
+ */
+
+.lightbox-close {
+    position: absolute;
+
+    top: 12px;
+    right: 24px;
+
+    border: 0;
+    background: transparent;
+
+    color: white;
+
+    font-size: 42px;
+    line-height: 1;
+
+    cursor: pointer;
+}
+
+
+/*
+ * Previous / next buttons
+ */
+
+.lightbox-nav {
+    position: absolute;
+
+    top: 50%;
+    transform: translateY(-50%);
+
+    border: 0;
+    background: transparent;
+
+    color: white;
+
+    font-size: 48px;
+
+    padding: 20px;
+
+    cursor: pointer;
+
+    user-select: none;
+}
+
+.lightbox-prev {
+    left: 5px;
+}
+
+.lightbox-next {
+    right: 5px;
+}
+
+.lightbox-nav:hover,
+.lightbox-close:hover {
+    color: #ccc;
+}
+
+
+/*
+ * Phones/tablets
+ */
+
+@media (max-width: 600px) {
+
+    .gallery {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 8px;
+    }
+
+    .lightbox-content {
+        max-width: calc(100vw - 20px);
+    }
+
+    .lightbox-nav {
+        top: auto;
+        bottom: 10px;
+
+        transform: none;
+
+        font-size: 36px;
+
+        background: rgba(0, 0, 0, 0.35);
+
+        padding: 8px 18px;
+
+        border-radius: 5px;
+    }
+
+    .lightbox-prev {
+        left: 20px;
+    }
+
+    .lightbox-next {
+        right: 20px;
+    }
+
+}

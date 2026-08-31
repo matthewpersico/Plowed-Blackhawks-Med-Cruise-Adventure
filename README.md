@@ -3,7 +3,8 @@
 <!-- COUNTDOWN_END -->
 
 ## Info
-* <img width="19" height="20" alt="facebook-icon" src="https://github.com/user-attachments/assets/89fc1021-630d-4bbd-afd3-c548fa15ba7c" />
+ * 📸 [Cruise Photos](Photos.html)
+ * <img width="19" height="20" alt="facebook-icon" src="https://github.com/user-attachments/assets/89fc1021-630d-4bbd-afd3-c548fa15ba7c" />
    [Facebook Links](Facebook-Links.md)
 * 📰 [News](News.md)
 * 🛳️ [Vacation Summaries](Vacation-Summaries.md)
