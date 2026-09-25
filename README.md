@@ -1,5 +1,5 @@
 <!-- COUNTDOWN_START -->
-# 🌊 The cruise ended 39 days ago. Hope it was amazing for you!
+# 🌊 The cruise ended 40 days ago. Hope it was amazing for you!
 <!-- COUNTDOWN_END -->
 
 ## Info
